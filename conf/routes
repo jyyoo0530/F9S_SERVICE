@@ -1,0 +1,22 @@
+GET         /assets/*file                                                controllers.Assets.versioned(path="/public", file: Asset)
+GET         /                                                            controllers.HomeController.index
+GET         /ws                                                          controllers.SocketController.socket
+#GET         /api/f9s/document                                           controllers.ApiHelpController
+
+
+                                ########## REST API for F9STATS ##########
+
+                                          ## Market Watch ##
+GET         /api/v1/stats/idxlist                                        controllers.stats.get.IDX_LST.responseAction
+POST        /api/v1/stats/filtered/marketwatch                           controllers.stats.post.MW_SUM.postResponse
+POST        /api/v1/stats/filtered/marketwatch/productweekdetail         controllers.stats.post.MW_WKDETAIL.postResponse
+POST        /api/v1/stats/filtered/marketwatch/productdealhistory        controllers.stats.post.MW_HST.postResponse
+POST        /api/v1/stats/filtered/marketwatch/bidask                    controllers.stats.post.MW_BIDASK.postResponse
+POST        /api/v1/stats/filtered/marketindex/summary                   controllers.stats.post.MI_SUM.postResponse
+
+                                           ## Dashboard ##
+POST        /api/v1/dashboard/list/summary/weeklist                      controllers.dashboard.post.DSBD_WKLIST.postResponse
+POST        /api/v1/dashboard/list/summary/rtelist                       controllers.dashboard.post.DSBD_RTELIST.postResponse
+POST        /api/v1/dashboard/list/summary                               controllers.dashboard.post.DSBD_SUM.postResponse
+GET         /api/v1/dashboard/offer/weekdetail                           controllers.dashboard.get.DSBD_WKDETAIL.responseAction(offernumber: String, baseyearweek: String)
+GET         /api/v1/dashboard/offer/offerevents                          controllers.dashboard.get.DSBD_EVNTLOG.responseAction(offernumber: String)
