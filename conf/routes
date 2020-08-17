@@ -1,8 +1,10 @@
 GET         /assets/*file                                                controllers.Assets.versioned(path="/public", file: Asset)
 GET         /                                                            controllers.HomeController.index
-GET         /wstest                                                      controllers.WebsocketTester.tester
-GET         /ws                                                          controllers.SocketController.socket
-#GET         /api/f9s/document                                           controllers.ApiHelpController
+GET         /wstest                                                      controllers.SocketController.msgRoom
+GET         /ws                                                          controllers.SocketController.msg
+GET         /stomptest                                                   controllers.SocketController.msgRoom
+
+
 
 
                                 ########## REST API for F9STATS ##########

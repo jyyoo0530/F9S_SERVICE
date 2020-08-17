@@ -20,9 +20,12 @@ libraryDependencies ++= Seq(
   "org.mongodb.scala" %% "mongo-scala-driver" % "4.0.5",
   "org.mongodb.scala" %% "mongo-scala-bson" % "4.0.5",
   "io.swagger" %% "swagger-play2" % "1.7.1",
-  "org.apache.activemq" % "artemis-server" % "2.14.0"
+  "org.apache.activemq" % "artemis-server" % "2.14.0",
+  "net.logstash.logback" % "logstash-logback-encoder" % "6.2",
+  "org.webjars" %% "webjars-play" % "2.8.0",
+  "org.webjars" % "flot" % "0.8.3-1",
+  "org.webjars" % "bootstrap" % "3.3.7",
+  "org.jsoup" % "jsoup" % "1.12.1"
 )
 
 unmanagedResourceDirectories in Test <+= baseDirectory(_ / "target/web/public/test")
-
-      

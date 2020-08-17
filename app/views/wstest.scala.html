@@ -6,13 +6,15 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <link rel="stylesheet" media="screen" href="@routes.Assets.versioned("stylesheets/wstest.css")">
-
         <title>@title</title>
     </head>
-    <body id = "wsbody">
+    <body>
         "WS TEST by Javascript"
-        <h1 id = "wstest1">""</h1>
-
+        <h1 id = "wsStatus"></h1>
+        <div id = "msgSent"></div>
+            <button id ="openConn">RECONNECT</button><br>
+            <button id="sendText">SEND TEST TEXT</button><br>
+            <button id="closeConn">CLOSE CONNECTION</button>
+        <script src="@routes.Assets.versioned("javascripts/wstest.js")" type="text/javascript"></script>
     </body>
-    <script src="@routes.Assets.versioned("javascripts/wstest.js")" type="text/javascript"></script>
 </html>
