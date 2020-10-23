@@ -14,7 +14,8 @@ import scala.concurrent.Await
 import org.mongodb.scala._
 import org.mongodb.scala.bson.conversions
 import org.mongodb.scala.model.Filters._
-class DSBD_RTELIST @Inject()(cc: ControllerComponents) extends AbstractController(cc){
+
+class DSBD_RTELIST @Inject()(cc: ControllerComponents) extends AbstractController(cc) {
   // Observer Pattern
   def postResponse: Action[AnyContent] = Action { request =>
 

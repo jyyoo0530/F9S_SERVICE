@@ -1,1212 +1,4460 @@
-[
-  {
-    "xAxis": "20200423",
-    "intervalTimestamp": "20200423130028318081",
-    "open": 783,
-    "low": 783,
-    "high": 845,
-    "close": 822,
-    "volume": 19328,
-    "changeValue": 822,
-    "changeRate": 1
-  },
-  {
-    "xAxis": "20200424",
-    "intervalTimestamp": "20200424175714279250",
-    "open": 807,
-    "low": 807,
-    "high": 807,
-    "close": 807,
-    "volume": 16,
-    "changeValue": -15,
-    "changeRate": -0.01858736059479554
-  },
-  {
-    "xAxis": "20200425",
-    "intervalTimestamp": "20200425010000000000",
-    "open": 807,
-    "low": 807,
-    "high": 807,
-    "close": 807,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200426",
-    "intervalTimestamp": "20200426010000000000",
-    "open": 807,
-    "low": 807,
-    "high": 807,
-    "close": 807,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200427",
-    "intervalTimestamp": "20200427080206520805",
-    "open": 783,
-    "low": 783,
-    "high": 856,
-    "close": 856,
-    "volume": 14400,
-    "changeValue": 49,
-    "changeRate": 0.05724299065420561
-  },
-  {
-    "xAxis": "20200428",
-    "intervalTimestamp": "20200428010000000000",
-    "open": 856,
-    "low": 856,
-    "high": 856,
-    "close": 856,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200429",
-    "intervalTimestamp": "20200429010000000000",
-    "open": 856,
-    "low": 856,
-    "high": 856,
-    "close": 856,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200430",
-    "intervalTimestamp": "20200430010000000000",
-    "open": 856,
-    "low": 856,
-    "high": 856,
-    "close": 856,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200501",
-    "intervalTimestamp": "20200501010000000000",
-    "open": 856,
-    "low": 856,
-    "high": 856,
-    "close": 856,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200502",
-    "intervalTimestamp": "20200502010000000000",
-    "open": 856,
-    "low": 856,
-    "high": 856,
-    "close": 856,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200503",
-    "intervalTimestamp": "20200503200017792758",
-    "open": 802,
-    "low": 801,
-    "high": 802,
-    "close": 801,
-    "volume": 4640,
-    "changeValue": -55,
-    "changeRate": -0.0686641697877653
-  },
-  {
-    "xAxis": "20200504",
-    "intervalTimestamp": "20200504010000000000",
-    "open": 801,
-    "low": 801,
-    "high": 801,
-    "close": 801,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200505",
-    "intervalTimestamp": "20200505010000000000",
-    "open": 801,
-    "low": 801,
-    "high": 801,
-    "close": 801,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200506",
-    "intervalTimestamp": "20200506152913375846",
-    "open": 806,
-    "low": 806,
-    "high": 844,
-    "close": 844,
-    "volume": 7104,
-    "changeValue": 43,
-    "changeRate": 0.0509478672985782
-  },
-  {
-    "xAxis": "20200507",
-    "intervalTimestamp": "20200507153542830782",
-    "open": 806,
-    "low": 806,
-    "high": 806,
-    "close": 806,
-    "volume": 4800,
-    "changeValue": -38,
-    "changeRate": -0.04714640198511166
-  },
-  {
-    "xAxis": "20200508",
-    "intervalTimestamp": "20200508173601014485",
-    "open": 822,
-    "low": 707,
-    "high": 844,
-    "close": 803,
-    "volume": 37424,
-    "changeValue": -3,
-    "changeRate": -0.0037359900373599006
-  },
-  {
-    "xAxis": "20200509",
-    "intervalTimestamp": "20200509010000000000",
-    "open": 803,
-    "low": 803,
-    "high": 803,
-    "close": 803,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200510",
-    "intervalTimestamp": "20200510010000000000",
-    "open": 803,
-    "low": 803,
-    "high": 803,
-    "close": 803,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200511",
-    "intervalTimestamp": "20200511170740493138",
-    "open": 806,
-    "low": 711,
-    "high": 844,
-    "close": 844,
-    "volume": 20128,
-    "changeValue": 41,
-    "changeRate": 0.0485781990521327
-  },
-  {
-    "xAxis": "20200512",
-    "intervalTimestamp": "20200512160523336931",
-    "open": 803,
-    "low": 803,
-    "high": 844,
-    "close": 803,
-    "volume": 7408,
-    "changeValue": -41,
-    "changeRate": -0.05105853051058531
-  },
-  {
-    "xAxis": "20200513",
-    "intervalTimestamp": "20200513090704284960",
-    "open": 844,
-    "low": 844,
-    "high": 844,
-    "close": 844,
-    "volume": 160,
-    "changeValue": 41,
-    "changeRate": 0.0485781990521327
-  },
-  {
-    "xAxis": "20200514",
-    "intervalTimestamp": "20200514010000000000",
-    "open": 844,
-    "low": 844,
-    "high": 844,
-    "close": 844,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200515",
-    "intervalTimestamp": "20200515010000000000",
-    "open": 844,
-    "low": 844,
-    "high": 844,
-    "close": 844,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200516",
-    "intervalTimestamp": "20200516010000000000",
-    "open": 844,
-    "low": 844,
-    "high": 844,
-    "close": 844,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200517",
-    "intervalTimestamp": "20200517010000000000",
-    "open": 844,
-    "low": 844,
-    "high": 844,
-    "close": 844,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200518",
-    "intervalTimestamp": "20200518182002297322",
-    "open": 844,
-    "low": 707,
-    "high": 844,
-    "close": 707,
-    "volume": 336,
-    "changeValue": -137,
-    "changeRate": -0.19377652050919378
-  },
-  {
-    "xAxis": "20200519",
-    "intervalTimestamp": "20200519170219965791",
-    "open": 790,
-    "low": 707,
-    "high": 844,
-    "close": 802,
-    "volume": 2896,
-    "changeValue": 95,
-    "changeRate": 0.11845386533665836
-  },
-  {
-    "xAxis": "20200520",
-    "intervalTimestamp": "20200520010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200521",
-    "intervalTimestamp": "20200521010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200522",
-    "intervalTimestamp": "20200522010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200523",
-    "intervalTimestamp": "20200523010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200524",
-    "intervalTimestamp": "20200524010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200525",
-    "intervalTimestamp": "20200525151114199956",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 80,
-    "changeValue": -12,
-    "changeRate": -0.015189873417721518
-  },
-  {
-    "xAxis": "20200526",
-    "intervalTimestamp": "20200526010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200527",
-    "intervalTimestamp": "20200527010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200528",
-    "intervalTimestamp": "20200528010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200529",
-    "intervalTimestamp": "20200529010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200530",
-    "intervalTimestamp": "20200530010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200531",
-    "intervalTimestamp": "20200531010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200601",
-    "intervalTimestamp": "20200601164045896021",
-    "open": 806,
-    "low": 790,
-    "high": 806,
-    "close": 790,
-    "volume": 17312,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200602",
-    "intervalTimestamp": "20200602010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200603",
-    "intervalTimestamp": "20200603010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200604",
-    "intervalTimestamp": "20200604010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200605",
-    "intervalTimestamp": "20200605010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200606",
-    "intervalTimestamp": "20200606010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200607",
-    "intervalTimestamp": "20200607010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200608",
-    "intervalTimestamp": "20200608010000000000",
-    "open": 790,
-    "low": 790,
-    "high": 790,
-    "close": 790,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200609",
-    "intervalTimestamp": "20200609140527616419",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 320,
-    "changeValue": 12,
-    "changeRate": 0.014962593516209476
-  },
-  {
-    "xAxis": "20200610",
-    "intervalTimestamp": "20200610010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200611",
-    "intervalTimestamp": "20200611010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200612",
-    "intervalTimestamp": "20200612010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200613",
-    "intervalTimestamp": "20200613010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200614",
-    "intervalTimestamp": "20200614010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200615",
-    "intervalTimestamp": "20200615010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200616",
-    "intervalTimestamp": "20200616010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200617",
-    "intervalTimestamp": "20200617095420458760",
-    "open": 787,
-    "low": 787,
-    "high": 787,
-    "close": 787,
-    "volume": 4800,
-    "changeValue": -15,
-    "changeRate": -0.01905972045743329
-  },
-  {
-    "xAxis": "20200618",
-    "intervalTimestamp": "20200618174019432327",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 480,
-    "changeValue": 15,
-    "changeRate": 0.018703241895261846
-  },
-  {
-    "xAxis": "20200619",
-    "intervalTimestamp": "20200619210454844528",
-    "open": 803,
-    "low": 780,
-    "high": 844,
-    "close": 780,
-    "volume": 288,
-    "changeValue": -22,
-    "changeRate": -0.028205128205128206
-  },
-  {
-    "xAxis": "20200620",
-    "intervalTimestamp": "20200620010000000000",
-    "open": 780,
-    "low": 780,
-    "high": 780,
-    "close": 780,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200621",
-    "intervalTimestamp": "20200621010000000000",
-    "open": 780,
-    "low": 780,
-    "high": 780,
-    "close": 780,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200622",
-    "intervalTimestamp": "20200622143020753612",
-    "open": 779,
-    "low": 760,
-    "high": 779,
-    "close": 760,
-    "volume": 160,
-    "changeValue": -20,
-    "changeRate": -0.02631578947368421
-  },
-  {
-    "xAxis": "20200623",
-    "intervalTimestamp": "20200623010000000000",
-    "open": 760,
-    "low": 760,
-    "high": 760,
-    "close": 760,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200624",
-    "intervalTimestamp": "20200624092908395034",
-    "open": 803,
-    "low": 803,
-    "high": 803,
-    "close": 803,
-    "volume": 32,
-    "changeValue": 43,
-    "changeRate": 0.053549190535491904
-  },
-  {
-    "xAxis": "20200625",
-    "intervalTimestamp": "20200625010000000000",
-    "open": 803,
-    "low": 803,
-    "high": 803,
-    "close": 803,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200626",
-    "intervalTimestamp": "20200626114850200740",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 640,
-    "changeValue": -1,
-    "changeRate": -0.0012468827930174563
-  },
-  {
-    "xAxis": "20200627",
-    "intervalTimestamp": "20200627010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200628",
-    "intervalTimestamp": "20200628010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200629",
-    "intervalTimestamp": "20200629010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200630",
-    "intervalTimestamp": "20200630010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200701",
-    "intervalTimestamp": "20200701010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200702",
-    "intervalTimestamp": "20200702010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200703",
-    "intervalTimestamp": "20200703010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200704",
-    "intervalTimestamp": "20200704161737403461",
-    "open": 745,
-    "low": 745,
-    "high": 802,
-    "close": 802,
-    "volume": 6656,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200705",
-    "intervalTimestamp": "20200705010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200706",
-    "intervalTimestamp": "20200706010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200707",
-    "intervalTimestamp": "20200707010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200708",
-    "intervalTimestamp": "20200708010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200709",
-    "intervalTimestamp": "20200709010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200710",
-    "intervalTimestamp": "20200710010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200711",
-    "intervalTimestamp": "20200711010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200712",
-    "intervalTimestamp": "20200712010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200713",
-    "intervalTimestamp": "20200713010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200714",
-    "intervalTimestamp": "20200714010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200715",
-    "intervalTimestamp": "20200715010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200716",
-    "intervalTimestamp": "20200716010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200717",
-    "intervalTimestamp": "20200717010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200718",
-    "intervalTimestamp": "20200718010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200719",
-    "intervalTimestamp": "20200719010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200720",
-    "intervalTimestamp": "20200720010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200721",
-    "intervalTimestamp": "20200721010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200722",
-    "intervalTimestamp": "20200722010000000000",
-    "open": 802,
-    "low": 802,
-    "high": 802,
-    "close": 802,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200723",
-    "intervalTimestamp": "20200723172854247412",
-    "open": 803,
-    "low": 707,
-    "high": 803,
-    "close": 707,
-    "volume": 1280,
-    "changeValue": -95,
-    "changeRate": -0.13437057991513437
-  },
-  {
-    "xAxis": "20200724",
-    "intervalTimestamp": "20200724131606219743",
-    "open": 803,
-    "low": 803,
-    "high": 844,
-    "close": 844,
-    "volume": 11616,
-    "changeValue": 137,
-    "changeRate": 0.1623222748815166
-  },
-  {
-    "xAxis": "20200725",
-    "intervalTimestamp": "20200725010000000000",
-    "open": 844,
-    "low": 844,
-    "high": 844,
-    "close": 844,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200726",
-    "intervalTimestamp": "20200726010000000000",
-    "open": 844,
-    "low": 844,
-    "high": 844,
-    "close": 844,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200727",
-    "intervalTimestamp": "20200727123302833270",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 8000,
-    "changeValue": -344,
-    "changeRate": -0.688
-  },
-  {
-    "xAxis": "20200728",
-    "intervalTimestamp": "20200728010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200729",
-    "intervalTimestamp": "20200729010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200730",
-    "intervalTimestamp": "20200730010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200731",
-    "intervalTimestamp": "20200731010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200801",
-    "intervalTimestamp": "20200801010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200802",
-    "intervalTimestamp": "20200802010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200803",
-    "intervalTimestamp": "20200803010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200804",
-    "intervalTimestamp": "20200804010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200805",
-    "intervalTimestamp": "20200805010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200806",
-    "intervalTimestamp": "20200806010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200807",
-    "intervalTimestamp": "20200807010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200808",
-    "intervalTimestamp": "20200808010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200809",
-    "intervalTimestamp": "20200809010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  },
-  {
-    "xAxis": "20200810",
-    "intervalTimestamp": "20200810010000000000",
-    "open": 500,
-    "low": 500,
-    "high": 500,
-    "close": 500,
-    "volume": 0,
-    "changeValue": 0,
-    "changeRate": 0
-  }
-]
+{
+  "_id": {
+    "$oid": "5f4611684c9d5d000fa6d21a"
+  },
+  "idxSubject": "marketIdx",
+  "idxCategory": "SCFI",
+  "idxCd": "EUME",
+  "idxNm": "Mediterranean(Base port)",
+  "interval": "weekly",
+  "Cell": [
+    {
+      "xAxis": "20101",
+      "intervalTimestamp": "20100102010000000000",
+      "value": 1560,
+      "volume": 0,
+      "changeValue": 1560,
+      "changeRate": 1
+    },
+    {
+      "xAxis": "20102",
+      "intervalTimestamp": "20100109010000000000",
+      "value": 1701,
+      "volume": 0,
+      "changeValue": -96,
+      "changeRate": -0.0564373897707231
+    },
+    {
+      "xAxis": "20103",
+      "intervalTimestamp": "20100116010000000000",
+      "value": 1738,
+      "volume": 0,
+      "changeValue": -121,
+      "changeRate": -0.06962025316455696
+    },
+    {
+      "xAxis": "20104",
+      "intervalTimestamp": "20100123010000000000",
+      "value": 1899,
+      "volume": 0,
+      "changeValue": 275.5,
+      "changeRate": 0.1450763559768299
+    },
+    {
+      "xAxis": "20105",
+      "intervalTimestamp": "20100130010000000000",
+      "value": 1947,
+      "volume": 0,
+      "changeValue": 699,
+      "changeRate": 0.35901386748844377
+    },
+    {
+      "xAxis": "20106",
+      "intervalTimestamp": "20100206010000000000",
+      "value": 1965,
+      "volume": 0,
+      "changeValue": 405,
+      "changeRate": 0.20610687022900764
+    },
+    {
+      "xAxis": "20107",
+      "intervalTimestamp": "20100213010000000000",
+      "value": 2016,
+      "volume": 0,
+      "changeValue": 51,
+      "changeRate": 0.025297619047619048
+    },
+    {
+      "xAxis": "20108",
+      "intervalTimestamp": "20100220010000000000",
+      "value": 2067,
+      "volume": 0,
+      "changeValue": 51,
+      "changeRate": 0.02467343976777939
+    },
+    {
+      "xAxis": "20109",
+      "intervalTimestamp": "20100227010000000000",
+      "value": 2035,
+      "volume": 0,
+      "changeValue": -32,
+      "changeRate": -0.015724815724815724
+    },
+    {
+      "xAxis": "201010",
+      "intervalTimestamp": "20100306010000000000",
+      "value": 1988,
+      "volume": 0,
+      "changeValue": 428,
+      "changeRate": 0.2152917505030181
+    },
+    {
+      "xAxis": "201011",
+      "intervalTimestamp": "20100313010000000000",
+      "value": 1927,
+      "volume": 0,
+      "changeValue": -61,
+      "changeRate": -0.0316554229372081
+    },
+    {
+      "xAxis": "201012",
+      "intervalTimestamp": "20100320010000000000",
+      "value": 1885,
+      "volume": 0,
+      "changeValue": -42,
+      "changeRate": -0.022281167108753316
+    },
+    {
+      "xAxis": "201013",
+      "intervalTimestamp": "20100327010000000000",
+      "value": 1857,
+      "volume": 0,
+      "changeValue": -28,
+      "changeRate": -0.015078082929456112
+    },
+    {
+      "xAxis": "201014",
+      "intervalTimestamp": "20100403010000000000",
+      "value": 1846,
+      "volume": 0,
+      "changeValue": -11,
+      "changeRate": -0.005958829902491874
+    },
+    {
+      "xAxis": "201015",
+      "intervalTimestamp": "20100410010000000000",
+      "value": 1823,
+      "volume": 0,
+      "changeValue": -23,
+      "changeRate": -0.012616566099835436
+    },
+    {
+      "xAxis": "201016",
+      "intervalTimestamp": "20100417010000000000",
+      "value": 1814,
+      "volume": 0,
+      "changeValue": -9,
+      "changeRate": -0.004961411245865491
+    },
+    {
+      "xAxis": "201017",
+      "intervalTimestamp": "20100424010000000000",
+      "value": 1808,
+      "volume": 0,
+      "changeValue": -6,
+      "changeRate": -0.00331858407079646
+    },
+    {
+      "xAxis": "201018",
+      "intervalTimestamp": "20100501010000000000",
+      "value": 1802,
+      "volume": 0,
+      "changeValue": -6,
+      "changeRate": -0.003329633740288568
+    },
+    {
+      "xAxis": "201019",
+      "intervalTimestamp": "20100508010000000000",
+      "value": 1797,
+      "volume": 0,
+      "changeValue": -5,
+      "changeRate": -0.0027824151363383415
+    },
+    {
+      "xAxis": "201020",
+      "intervalTimestamp": "20100515010000000000",
+      "value": 1793,
+      "volume": 0,
+      "changeValue": 92,
+      "changeRate": 0.051310652537646405
+    },
+    {
+      "xAxis": "201021",
+      "intervalTimestamp": "20100522010000000000",
+      "value": 1849,
+      "volume": 0,
+      "changeValue": 56,
+      "changeRate": 0.03028664142779881
+    },
+    {
+      "xAxis": "201022",
+      "intervalTimestamp": "20100529010000000000",
+      "value": 1888,
+      "volume": 0,
+      "changeValue": 39,
+      "changeRate": 0.02065677966101695
+    },
+    {
+      "xAxis": "201023",
+      "intervalTimestamp": "20100605010000000000",
+      "value": 1906,
+      "volume": 0,
+      "changeValue": 18,
+      "changeRate": 0.00944386149003148
+    },
+    {
+      "xAxis": "201024",
+      "intervalTimestamp": "20100612010000000000",
+      "value": 1908,
+      "volume": 0,
+      "changeValue": 2,
+      "changeRate": 0.0010482180293501049
+    },
+    {
+      "xAxis": "201025",
+      "intervalTimestamp": "20100619010000000000",
+      "value": 1906,
+      "volume": 0,
+      "changeValue": -2,
+      "changeRate": -0.001049317943336831
+    },
+    {
+      "xAxis": "201026",
+      "intervalTimestamp": "20100626010000000000",
+      "value": 1919,
+      "volume": 0,
+      "changeValue": 13,
+      "changeRate": 0.006774361646690985
+    },
+    {
+      "xAxis": "201027",
+      "intervalTimestamp": "20100703010000000000",
+      "value": 1910,
+      "volume": 0,
+      "changeValue": -9,
+      "changeRate": -0.004712041884816754
+    },
+    {
+      "xAxis": "201028",
+      "intervalTimestamp": "20100710010000000000",
+      "value": 1886,
+      "volume": 0,
+      "changeValue": -24,
+      "changeRate": -0.012725344644750796
+    },
+    {
+      "xAxis": "201029",
+      "intervalTimestamp": "20100717010000000000",
+      "value": 1859,
+      "volume": 0,
+      "changeValue": -27,
+      "changeRate": -0.014523937600860678
+    },
+    {
+      "xAxis": "201030",
+      "intervalTimestamp": "20100724010000000000",
+      "value": 1838,
+      "volume": 0,
+      "changeValue": 100,
+      "changeRate": 0.0544069640914037
+    },
+    {
+      "xAxis": "201031",
+      "intervalTimestamp": "20100731010000000000",
+      "value": 1833,
+      "volume": 0,
+      "changeValue": -5,
+      "changeRate": -0.002727768685215494
+    },
+    {
+      "xAxis": "201032",
+      "intervalTimestamp": "20100807010000000000",
+      "value": 1822,
+      "volume": 0,
+      "changeValue": -11,
+      "changeRate": -0.0060373216245883645
+    },
+    {
+      "xAxis": "201033",
+      "intervalTimestamp": "20100814010000000000",
+      "value": 1819,
+      "volume": 0,
+      "changeValue": -3,
+      "changeRate": -0.0016492578339747114
+    },
+    {
+      "xAxis": "201034",
+      "intervalTimestamp": "20100821010000000000",
+      "value": 1808,
+      "volume": 0,
+      "changeValue": -11,
+      "changeRate": -0.006084070796460177
+    },
+    {
+      "xAxis": "201035",
+      "intervalTimestamp": "20100828010000000000",
+      "value": 1770,
+      "volume": 0,
+      "changeValue": -38,
+      "changeRate": -0.021468926553672316
+    },
+    {
+      "xAxis": "201036",
+      "intervalTimestamp": "20100904010000000000",
+      "value": 1735,
+      "volume": 0,
+      "changeValue": -35,
+      "changeRate": -0.020172910662824207
+    },
+    {
+      "xAxis": "201037",
+      "intervalTimestamp": "20100911010000000000",
+      "value": 1685,
+      "volume": 0,
+      "changeValue": -50,
+      "changeRate": -0.02967359050445104
+    },
+    {
+      "xAxis": "201038",
+      "intervalTimestamp": "20100918010000000000",
+      "value": 1654.25,
+      "volume": 0,
+      "changeValue": -30.75,
+      "changeRate": -0.018588484207344717
+    },
+    {
+      "xAxis": "201039",
+      "intervalTimestamp": "20100925010000000000",
+      "value": 1623.5,
+      "volume": 0,
+      "changeValue": -30.75,
+      "changeRate": -0.018940560517400677
+    },
+    {
+      "xAxis": "201040",
+      "intervalTimestamp": "20101002010000000000",
+      "value": 1592.75,
+      "volume": 0,
+      "changeValue": -306.25,
+      "changeRate": -0.19227750745565844
+    },
+    {
+      "xAxis": "201041",
+      "intervalTimestamp": "20101009010000000000",
+      "value": 1552,
+      "volume": 0,
+      "changeValue": -40.75,
+      "changeRate": -0.026256443298969073
+    },
+    {
+      "xAxis": "201042",
+      "intervalTimestamp": "20101016010000000000",
+      "value": 1534,
+      "volume": 0,
+      "changeValue": -18,
+      "changeRate": -0.011734028683181226
+    },
+    {
+      "xAxis": "201043",
+      "intervalTimestamp": "20101023010000000000",
+      "value": 1512,
+      "volume": 0,
+      "changeValue": -22,
+      "changeRate": -0.01455026455026455
+    },
+    {
+      "xAxis": "201044",
+      "intervalTimestamp": "20101030010000000000",
+      "value": 1469,
+      "volume": 0,
+      "changeValue": -43,
+      "changeRate": -0.029271613342409804
+    },
+    {
+      "xAxis": "201045",
+      "intervalTimestamp": "20101106010000000000",
+      "value": 1428,
+      "volume": 0,
+      "changeValue": -41,
+      "changeRate": -0.028711484593837534
+    },
+    {
+      "xAxis": "201046",
+      "intervalTimestamp": "20101113010000000000",
+      "value": 1380,
+      "volume": 0,
+      "changeValue": -48,
+      "changeRate": -0.034782608695652174
+    },
+    {
+      "xAxis": "201047",
+      "intervalTimestamp": "20101120010000000000",
+      "value": 1339,
+      "volume": 0,
+      "changeValue": -41,
+      "changeRate": -0.030619865571321882
+    },
+    {
+      "xAxis": "201048",
+      "intervalTimestamp": "20101127010000000000",
+      "value": 1275,
+      "volume": 0,
+      "changeValue": -64,
+      "changeRate": -0.05019607843137255
+    },
+    {
+      "xAxis": "201049",
+      "intervalTimestamp": "20101204010000000000",
+      "value": 1248,
+      "volume": 0,
+      "changeValue": -27,
+      "changeRate": -0.021634615384615384
+    },
+    {
+      "xAxis": "201050",
+      "intervalTimestamp": "20101211010000000000",
+      "value": 1236,
+      "volume": 0,
+      "changeValue": -711,
+      "changeRate": -0.5752427184466019
+    },
+    {
+      "xAxis": "201051",
+      "intervalTimestamp": "20101218010000000000",
+      "value": 1235,
+      "volume": 0,
+      "changeValue": -1,
+      "changeRate": -0.0008097165991902834
+    },
+    {
+      "xAxis": "201052",
+      "intervalTimestamp": "20101225010000000000",
+      "value": 1250,
+      "volume": 0,
+      "changeValue": 15,
+      "changeRate": 0.012
+    },
+    {
+      "xAxis": "20111",
+      "intervalTimestamp": "20110101010000000000",
+      "value": 1233,
+      "volume": 0,
+      "changeValue": -802,
+      "changeRate": -0.6504460665044607
+    },
+    {
+      "xAxis": "20112",
+      "intervalTimestamp": "20110108010000000000",
+      "value": 1212,
+      "volume": 0,
+      "changeValue": 289,
+      "changeRate": 0.23844884488448845
+    },
+    {
+      "xAxis": "20113",
+      "intervalTimestamp": "20110115010000000000",
+      "value": 1209,
+      "volume": 0,
+      "changeValue": 291,
+      "changeRate": 0.24069478908188585
+    },
+    {
+      "xAxis": "20114",
+      "intervalTimestamp": "20110122010000000000",
+      "value": 1206,
+      "volume": 0,
+      "changeValue": 201,
+      "changeRate": 0.16666666666666666
+    },
+    {
+      "xAxis": "20115",
+      "intervalTimestamp": "20110129010000000000",
+      "value": 1205,
+      "volume": 0,
+      "changeValue": 553,
+      "changeRate": 0.4589211618257261
+    },
+    {
+      "xAxis": "20116",
+      "intervalTimestamp": "20110205010000000000",
+      "value": 1204,
+      "volume": 0,
+      "changeValue": 490,
+      "changeRate": 0.4069767441860465
+    },
+    {
+      "xAxis": "20117",
+      "intervalTimestamp": "20110212010000000000",
+      "value": 1167,
+      "volume": 0,
+      "changeValue": -37,
+      "changeRate": -0.031705227077977724
+    },
+    {
+      "xAxis": "20118",
+      "intervalTimestamp": "20110219010000000000",
+      "value": 1116,
+      "volume": 0,
+      "changeValue": -51,
+      "changeRate": -0.0456989247311828
+    },
+    {
+      "xAxis": "20119",
+      "intervalTimestamp": "20110226010000000000",
+      "value": 1082,
+      "volume": 0,
+      "changeValue": -34,
+      "changeRate": -0.031423290203327174
+    },
+    {
+      "xAxis": "201110",
+      "intervalTimestamp": "20110305010000000000",
+      "value": 1042,
+      "volume": 0,
+      "changeValue": -191,
+      "changeRate": -0.1833013435700576
+    },
+    {
+      "xAxis": "201111",
+      "intervalTimestamp": "20110312010000000000",
+      "value": 1001,
+      "volume": 0,
+      "changeValue": -41,
+      "changeRate": -0.04095904095904096
+    },
+    {
+      "xAxis": "201112",
+      "intervalTimestamp": "20110319010000000000",
+      "value": 985,
+      "volume": 0,
+      "changeValue": -16,
+      "changeRate": -0.016243654822335026
+    },
+    {
+      "xAxis": "201113",
+      "intervalTimestamp": "20110326010000000000",
+      "value": 978,
+      "volume": 0,
+      "changeValue": -7,
+      "changeRate": -0.007157464212678937
+    },
+    {
+      "xAxis": "201114",
+      "intervalTimestamp": "20110402010000000000",
+      "value": 963,
+      "volume": 0,
+      "changeValue": -15,
+      "changeRate": -0.01557632398753894
+    },
+    {
+      "xAxis": "201115",
+      "intervalTimestamp": "20110409010000000000",
+      "value": 945,
+      "volume": 0,
+      "changeValue": -18,
+      "changeRate": -0.01904761904761905
+    },
+    {
+      "xAxis": "201116",
+      "intervalTimestamp": "20110416010000000000",
+      "value": 926,
+      "volume": 0,
+      "changeValue": -19,
+      "changeRate": -0.020518358531317494
+    },
+    {
+      "xAxis": "201117",
+      "intervalTimestamp": "20110423010000000000",
+      "value": 913,
+      "volume": 0,
+      "changeValue": -13,
+      "changeRate": -0.014238773274917854
+    },
+    {
+      "xAxis": "201118",
+      "intervalTimestamp": "20110430010000000000",
+      "value": 914,
+      "volume": 0,
+      "changeValue": 1,
+      "changeRate": 0.0010940919037199124
+    },
+    {
+      "xAxis": "201119",
+      "intervalTimestamp": "20110507010000000000",
+      "value": 923,
+      "volume": 0,
+      "changeValue": 9,
+      "changeRate": 0.009750812567713976
+    },
+    {
+      "xAxis": "201120",
+      "intervalTimestamp": "20110514010000000000",
+      "value": 924,
+      "volume": 0,
+      "changeValue": -288,
+      "changeRate": -0.3116883116883117
+    },
+    {
+      "xAxis": "201121",
+      "intervalTimestamp": "20110521010000000000",
+      "value": 942,
+      "volume": 0,
+      "changeValue": 18,
+      "changeRate": 0.01910828025477707
+    },
+    {
+      "xAxis": "201122",
+      "intervalTimestamp": "20110528010000000000",
+      "value": 950,
+      "volume": 0,
+      "changeValue": 8,
+      "changeRate": 0.008421052631578947
+    },
+    {
+      "xAxis": "201123",
+      "intervalTimestamp": "20110604010000000000",
+      "value": 956,
+      "volume": 0,
+      "changeValue": 6,
+      "changeRate": 0.006276150627615063
+    },
+    {
+      "xAxis": "201124",
+      "intervalTimestamp": "20110611010000000000",
+      "value": 955,
+      "volume": 0,
+      "changeValue": -1,
+      "changeRate": -0.0010471204188481676
+    },
+    {
+      "xAxis": "201125",
+      "intervalTimestamp": "20110618010000000000",
+      "value": 953,
+      "volume": 0,
+      "changeValue": -2,
+      "changeRate": -0.002098635886673662
+    },
+    {
+      "xAxis": "201126",
+      "intervalTimestamp": "20110625010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": -4,
+      "changeRate": -0.004214963119072708
+    },
+    {
+      "xAxis": "201127",
+      "intervalTimestamp": "20110702010000000000",
+      "value": 941,
+      "volume": 0,
+      "changeValue": -8,
+      "changeRate": -0.008501594048884165
+    },
+    {
+      "xAxis": "201128",
+      "intervalTimestamp": "20110709010000000000",
+      "value": 926,
+      "volume": 0,
+      "changeValue": -15,
+      "changeRate": -0.016198704103671708
+    },
+    {
+      "xAxis": "201129",
+      "intervalTimestamp": "20110716010000000000",
+      "value": 918,
+      "volume": 0,
+      "changeValue": -8,
+      "changeRate": -0.008714596949891068
+    },
+    {
+      "xAxis": "201130",
+      "intervalTimestamp": "20110723010000000000",
+      "value": 936,
+      "volume": 0,
+      "changeValue": -273,
+      "changeRate": -0.2916666666666667
+    },
+    {
+      "xAxis": "201131",
+      "intervalTimestamp": "20110730010000000000",
+      "value": 966,
+      "volume": 0,
+      "changeValue": 30,
+      "changeRate": 0.031055900621118012
+    },
+    {
+      "xAxis": "201132",
+      "intervalTimestamp": "20110806010000000000",
+      "value": 1019,
+      "volume": 0,
+      "changeValue": 53,
+      "changeRate": 0.052011776251226695
+    },
+    {
+      "xAxis": "201133",
+      "intervalTimestamp": "20110813010000000000",
+      "value": 1049,
+      "volume": 0,
+      "changeValue": 30,
+      "changeRate": 0.028598665395614873
+    },
+    {
+      "xAxis": "201134",
+      "intervalTimestamp": "20110820010000000000",
+      "value": 1092,
+      "volume": 0,
+      "changeValue": 43,
+      "changeRate": 0.039377289377289376
+    },
+    {
+      "xAxis": "201135",
+      "intervalTimestamp": "20110827010000000000",
+      "value": 1133,
+      "volume": 0,
+      "changeValue": 41,
+      "changeRate": 0.03618711385701677
+    },
+    {
+      "xAxis": "201136",
+      "intervalTimestamp": "20110903010000000000",
+      "value": 1128,
+      "volume": 0,
+      "changeValue": -5,
+      "changeRate": -0.004432624113475178
+    },
+    {
+      "xAxis": "201137",
+      "intervalTimestamp": "20110910010000000000",
+      "value": 1096,
+      "volume": 0,
+      "changeValue": -32,
+      "changeRate": -0.029197080291970802
+    },
+    {
+      "xAxis": "201138",
+      "intervalTimestamp": "20110917010000000000",
+      "value": 1027,
+      "volume": 0,
+      "changeValue": -69,
+      "changeRate": -0.06718597857838364
+    },
+    {
+      "xAxis": "201139",
+      "intervalTimestamp": "20110924010000000000",
+      "value": 1005,
+      "volume": 0,
+      "changeValue": -22,
+      "changeRate": -0.021890547263681594
+    },
+    {
+      "xAxis": "201140",
+      "intervalTimestamp": "20111001010000000000",
+      "value": 988,
+      "volume": 0,
+      "changeValue": -218,
+      "changeRate": -0.22064777327935223
+    },
+    {
+      "xAxis": "201141",
+      "intervalTimestamp": "20111008010000000000",
+      "value": 971,
+      "volume": 0,
+      "changeValue": -17,
+      "changeRate": -0.017507723995880537
+    },
+    {
+      "xAxis": "201142",
+      "intervalTimestamp": "20111015010000000000",
+      "value": 948,
+      "volume": 0,
+      "changeValue": -23,
+      "changeRate": -0.024261603375527425
+    },
+    {
+      "xAxis": "201143",
+      "intervalTimestamp": "20111022010000000000",
+      "value": 916,
+      "volume": 0,
+      "changeValue": -32,
+      "changeRate": -0.034934497816593885
+    },
+    {
+      "xAxis": "201144",
+      "intervalTimestamp": "20111029010000000000",
+      "value": 863,
+      "volume": 0,
+      "changeValue": -53,
+      "changeRate": -0.06141367323290846
+    },
+    {
+      "xAxis": "201145",
+      "intervalTimestamp": "20111105010000000000",
+      "value": 806,
+      "volume": 0,
+      "changeValue": -57,
+      "changeRate": -0.0707196029776675
+    },
+    {
+      "xAxis": "201146",
+      "intervalTimestamp": "20111112010000000000",
+      "value": 768,
+      "volume": 0,
+      "changeValue": -38,
+      "changeRate": -0.049479166666666664
+    },
+    {
+      "xAxis": "201147",
+      "intervalTimestamp": "20111119010000000000",
+      "value": 730,
+      "volume": 0,
+      "changeValue": -38,
+      "changeRate": -0.052054794520547946
+    },
+    {
+      "xAxis": "201148",
+      "intervalTimestamp": "20111126010000000000",
+      "value": 691,
+      "volume": 0,
+      "changeValue": -39,
+      "changeRate": -0.056439942112879886
+    },
+    {
+      "xAxis": "201149",
+      "intervalTimestamp": "20111203010000000000",
+      "value": 652,
+      "volume": 0,
+      "changeValue": -39,
+      "changeRate": -0.0598159509202454
+    },
+    {
+      "xAxis": "201150",
+      "intervalTimestamp": "20111210010000000000",
+      "value": 626,
+      "volume": 0,
+      "changeValue": -579,
+      "changeRate": -0.9249201277955271
+    },
+    {
+      "xAxis": "201151",
+      "intervalTimestamp": "20111217010000000000",
+      "value": 631,
+      "volume": 0,
+      "changeValue": 5,
+      "changeRate": 0.00792393026941363
+    },
+    {
+      "xAxis": "201152",
+      "intervalTimestamp": "20111224010000000000",
+      "value": 714,
+      "volume": 0,
+      "changeValue": 83,
+      "changeRate": 0.11624649859943978
+    },
+    {
+      "xAxis": "201153",
+      "intervalTimestamp": "201153010000000000",
+      "value": 714,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "20121",
+      "intervalTimestamp": "20120107010000000000",
+      "value": 754,
+      "volume": 0,
+      "changeValue": -328,
+      "changeRate": -0.4350132625994695
+    },
+    {
+      "xAxis": "20122",
+      "intervalTimestamp": "20120114010000000000",
+      "value": 772,
+      "volume": 0,
+      "changeValue": -1162,
+      "changeRate": -1.505181347150259
+    },
+    {
+      "xAxis": "20123",
+      "intervalTimestamp": "20120121010000000000",
+      "value": 779,
+      "volume": 0,
+      "changeValue": -872,
+      "changeRate": -1.1193838254172015
+    },
+    {
+      "xAxis": "20124",
+      "intervalTimestamp": "20120128010000000000",
+      "value": 777,
+      "volume": 0,
+      "changeValue": -427,
+      "changeRate": -0.5495495495495496
+    },
+    {
+      "xAxis": "20125",
+      "intervalTimestamp": "20120204010000000000",
+      "value": 775,
+      "volume": 0,
+      "changeValue": 53,
+      "changeRate": 0.06838709677419355
+    },
+    {
+      "xAxis": "20126",
+      "intervalTimestamp": "20120211010000000000",
+      "value": 758,
+      "volume": 0,
+      "changeValue": -346,
+      "changeRate": -0.45646437994722955
+    },
+    {
+      "xAxis": "20127",
+      "intervalTimestamp": "20120218010000000000",
+      "value": 735,
+      "volume": 0,
+      "changeValue": -23,
+      "changeRate": -0.031292517006802724
+    },
+    {
+      "xAxis": "20128",
+      "intervalTimestamp": "20120225010000000000",
+      "value": 867,
+      "volume": 0,
+      "changeValue": 132,
+      "changeRate": 0.1522491349480969
+    },
+    {
+      "xAxis": "20129",
+      "intervalTimestamp": "20120303010000000000",
+      "value": 1416,
+      "volume": 0,
+      "changeValue": 549,
+      "changeRate": 0.3877118644067797
+    },
+    {
+      "xAxis": "201210",
+      "intervalTimestamp": "20120310010000000000",
+      "value": 1397,
+      "volume": 0,
+      "changeValue": 643,
+      "changeRate": 0.4602720114531138
+    },
+    {
+      "xAxis": "201211",
+      "intervalTimestamp": "20120317010000000000",
+      "value": 1385,
+      "volume": 0,
+      "changeValue": -12,
+      "changeRate": -0.008664259927797834
+    },
+    {
+      "xAxis": "201212",
+      "intervalTimestamp": "20120324010000000000",
+      "value": 1376,
+      "volume": 0,
+      "changeValue": -9,
+      "changeRate": -0.006540697674418605
+    },
+    {
+      "xAxis": "201213",
+      "intervalTimestamp": "20120331010000000000",
+      "value": 1649,
+      "volume": 0,
+      "changeValue": 273,
+      "changeRate": 0.16555488174651303
+    },
+    {
+      "xAxis": "201214",
+      "intervalTimestamp": "20120407010000000000",
+      "value": 1768,
+      "volume": 0,
+      "changeValue": 119,
+      "changeRate": 0.0673076923076923
+    },
+    {
+      "xAxis": "201215",
+      "intervalTimestamp": "20120414010000000000",
+      "value": 1762,
+      "volume": 0,
+      "changeValue": -6,
+      "changeRate": -0.00340522133938706
+    },
+    {
+      "xAxis": "201216",
+      "intervalTimestamp": "20120421010000000000",
+      "value": 1747,
+      "volume": 0,
+      "changeValue": -15,
+      "changeRate": -0.008586147681740127
+    },
+    {
+      "xAxis": "201217",
+      "intervalTimestamp": "20120428010000000000",
+      "value": 1977,
+      "volume": 0,
+      "changeValue": 230,
+      "changeRate": 0.11633788568538189
+    },
+    {
+      "xAxis": "201218",
+      "intervalTimestamp": "20120505010000000000",
+      "value": 2033,
+      "volume": 0,
+      "changeValue": 56,
+      "changeRate": 0.027545499262174127
+    },
+    {
+      "xAxis": "201219",
+      "intervalTimestamp": "20120512010000000000",
+      "value": 1934,
+      "volume": 0,
+      "changeValue": -99,
+      "changeRate": -0.05118924508790072
+    },
+    {
+      "xAxis": "201220",
+      "intervalTimestamp": "20120519010000000000",
+      "value": 1872,
+      "volume": 0,
+      "changeValue": 1100,
+      "changeRate": 0.5876068376068376
+    },
+    {
+      "xAxis": "201221",
+      "intervalTimestamp": "20120526010000000000",
+      "value": 1846,
+      "volume": 0,
+      "changeValue": -26,
+      "changeRate": -0.014084507042253521
+    },
+    {
+      "xAxis": "201222",
+      "intervalTimestamp": "20120602010000000000",
+      "value": 1812,
+      "volume": 0,
+      "changeValue": -34,
+      "changeRate": -0.018763796909492272
+    },
+    {
+      "xAxis": "201223",
+      "intervalTimestamp": "20120609010000000000",
+      "value": 1783,
+      "volume": 0,
+      "changeValue": -29,
+      "changeRate": -0.016264722378014584
+    },
+    {
+      "xAxis": "201224",
+      "intervalTimestamp": "20120616010000000000",
+      "value": 1720,
+      "volume": 0,
+      "changeValue": -63,
+      "changeRate": -0.03662790697674419
+    },
+    {
+      "xAxis": "201225",
+      "intervalTimestamp": "20120623010000000000",
+      "value": 1685,
+      "volume": 0,
+      "changeValue": -35,
+      "changeRate": -0.020771513353115726
+    },
+    {
+      "xAxis": "201226",
+      "intervalTimestamp": "20120630010000000000",
+      "value": 1892,
+      "volume": 0,
+      "changeValue": 207,
+      "changeRate": 0.10940803382663848
+    },
+    {
+      "xAxis": "201227",
+      "intervalTimestamp": "20120707010000000000",
+      "value": 1812,
+      "volume": 0,
+      "changeValue": -80,
+      "changeRate": -0.04415011037527594
+    },
+    {
+      "xAxis": "201228",
+      "intervalTimestamp": "20120714010000000000",
+      "value": 1727,
+      "volume": 0,
+      "changeValue": -85,
+      "changeRate": -0.04921829762594094
+    },
+    {
+      "xAxis": "201229",
+      "intervalTimestamp": "20120721010000000000",
+      "value": 1651,
+      "volume": 0,
+      "changeValue": -76,
+      "changeRate": -0.04603270745003028
+    },
+    {
+      "xAxis": "201230",
+      "intervalTimestamp": "20120728010000000000",
+      "value": 1649,
+      "volume": 0,
+      "changeValue": 870,
+      "changeRate": 0.5275924802910855
+    },
+    {
+      "xAxis": "201231",
+      "intervalTimestamp": "20120804010000000000",
+      "value": 1611,
+      "volume": 0,
+      "changeValue": -38,
+      "changeRate": -0.023587833643699565
+    },
+    {
+      "xAxis": "201232",
+      "intervalTimestamp": "20120811010000000000",
+      "value": 1549,
+      "volume": 0,
+      "changeValue": -62,
+      "changeRate": -0.040025823111684955
+    },
+    {
+      "xAxis": "201233",
+      "intervalTimestamp": "20120818010000000000",
+      "value": 1488,
+      "volume": 0,
+      "changeValue": -61,
+      "changeRate": -0.04099462365591398
+    },
+    {
+      "xAxis": "201234",
+      "intervalTimestamp": "20120825010000000000",
+      "value": 1426,
+      "volume": 0,
+      "changeValue": -62,
+      "changeRate": -0.043478260869565216
+    },
+    {
+      "xAxis": "201235",
+      "intervalTimestamp": "20120901010000000000",
+      "value": 1371,
+      "volume": 0,
+      "changeValue": -55,
+      "changeRate": -0.04011670313639679
+    },
+    {
+      "xAxis": "201236",
+      "intervalTimestamp": "20120908010000000000",
+      "value": 1325,
+      "volume": 0,
+      "changeValue": -46,
+      "changeRate": -0.03471698113207547
+    },
+    {
+      "xAxis": "201237",
+      "intervalTimestamp": "20120915010000000000",
+      "value": 1249,
+      "volume": 0,
+      "changeValue": -76,
+      "changeRate": -0.06084867894315452
+    },
+    {
+      "xAxis": "201238",
+      "intervalTimestamp": "20120922010000000000",
+      "value": 1220,
+      "volume": 0,
+      "changeValue": -29,
+      "changeRate": -0.023770491803278688
+    },
+    {
+      "xAxis": "201239",
+      "intervalTimestamp": "20120929010000000000",
+      "value": 1204,
+      "volume": 0,
+      "changeValue": -16,
+      "changeRate": -0.013289036544850499
+    },
+    {
+      "xAxis": "201240",
+      "intervalTimestamp": "20121006010000000000",
+      "value": 1167,
+      "volume": 0,
+      "changeValue": 390,
+      "changeRate": 0.3341902313624679
+    },
+    {
+      "xAxis": "201241",
+      "intervalTimestamp": "20121013010000000000",
+      "value": 1130,
+      "volume": 0,
+      "changeValue": -37,
+      "changeRate": -0.03274336283185841
+    },
+    {
+      "xAxis": "201242",
+      "intervalTimestamp": "20121020010000000000",
+      "value": 1076,
+      "volume": 0,
+      "changeValue": -54,
+      "changeRate": -0.05018587360594796
+    },
+    {
+      "xAxis": "201243",
+      "intervalTimestamp": "20121027010000000000",
+      "value": 1273,
+      "volume": 0,
+      "changeValue": 197,
+      "changeRate": 0.15475255302435192
+    },
+    {
+      "xAxis": "201244",
+      "intervalTimestamp": "20121103010000000000",
+      "value": 1055,
+      "volume": 0,
+      "changeValue": -218,
+      "changeRate": -0.2066350710900474
+    },
+    {
+      "xAxis": "201245",
+      "intervalTimestamp": "20121110010000000000",
+      "value": 955,
+      "volume": 0,
+      "changeValue": -100,
+      "changeRate": -0.10471204188481675
+    },
+    {
+      "xAxis": "201246",
+      "intervalTimestamp": "20121117010000000000",
+      "value": 856,
+      "volume": 0,
+      "changeValue": -99,
+      "changeRate": -0.11565420560747663
+    },
+    {
+      "xAxis": "201247",
+      "intervalTimestamp": "20121124010000000000",
+      "value": 786,
+      "volume": 0,
+      "changeValue": -70,
+      "changeRate": -0.089058524173028
+    },
+    {
+      "xAxis": "201248",
+      "intervalTimestamp": "20121201010000000000",
+      "value": 746,
+      "volume": 0,
+      "changeValue": -40,
+      "changeRate": -0.05361930294906166
+    },
+    {
+      "xAxis": "201249",
+      "intervalTimestamp": "20121208010000000000",
+      "value": 722,
+      "volume": 0,
+      "changeValue": -24,
+      "changeRate": -0.0332409972299169
+    },
+    {
+      "xAxis": "201250",
+      "intervalTimestamp": "20121215010000000000",
+      "value": 1199,
+      "volume": 0,
+      "changeValue": 424,
+      "changeRate": 0.353628023352794
+    },
+    {
+      "xAxis": "201251",
+      "intervalTimestamp": "20121222010000000000",
+      "value": 1130,
+      "volume": 0,
+      "changeValue": -69,
+      "changeRate": -0.061061946902654866
+    },
+    {
+      "xAxis": "201252",
+      "intervalTimestamp": "20121229010000000000",
+      "value": 1104,
+      "volume": 0,
+      "changeValue": -26,
+      "changeRate": -0.02355072463768116
+    },
+    {
+      "xAxis": "20131",
+      "intervalTimestamp": "20130105010000000000",
+      "value": 1158,
+      "volume": 0,
+      "changeValue": -258,
+      "changeRate": -0.22279792746113988
+    },
+    {
+      "xAxis": "20132",
+      "intervalTimestamp": "20130112010000000000",
+      "value": 1356,
+      "volume": 0,
+      "changeValue": 551,
+      "changeRate": 0.40634218289085544
+    },
+    {
+      "xAxis": "20133",
+      "intervalTimestamp": "20130119010000000000",
+      "value": 1311,
+      "volume": 0,
+      "changeValue": 76,
+      "changeRate": 0.057971014492753624
+    },
+    {
+      "xAxis": "20134",
+      "intervalTimestamp": "20130126010000000000",
+      "value": 1301,
+      "volume": 0,
+      "changeValue": 464,
+      "changeRate": 0.3566487317448117
+    },
+    {
+      "xAxis": "20135",
+      "intervalTimestamp": "20130202010000000000",
+      "value": 1285,
+      "volume": 0,
+      "changeValue": 209,
+      "changeRate": 0.16264591439688716
+    },
+    {
+      "xAxis": "20136",
+      "intervalTimestamp": "20130209010000000000",
+      "value": 1258,
+      "volume": 0,
+      "changeValue": -312,
+      "changeRate": -0.2480127186009539
+    },
+    {
+      "xAxis": "20137",
+      "intervalTimestamp": "20130216010000000000",
+      "value": 1203,
+      "volume": 0,
+      "changeValue": -55,
+      "changeRate": -0.0457190357439734
+    },
+    {
+      "xAxis": "20138",
+      "intervalTimestamp": "20130223010000000000",
+      "value": 1148,
+      "volume": 0,
+      "changeValue": -55,
+      "changeRate": -0.04790940766550523
+    },
+    {
+      "xAxis": "20139",
+      "intervalTimestamp": "20130302010000000000",
+      "value": 1033,
+      "volume": 0,
+      "changeValue": -115,
+      "changeRate": -0.11132623426911907
+    },
+    {
+      "xAxis": "201310",
+      "intervalTimestamp": "20130309010000000000",
+      "value": 960,
+      "volume": 0,
+      "changeValue": -198,
+      "changeRate": -0.20625
+    },
+    {
+      "xAxis": "201311",
+      "intervalTimestamp": "20130316010000000000",
+      "value": 1366,
+      "volume": 0,
+      "changeValue": 406,
+      "changeRate": 0.2972181551976574
+    },
+    {
+      "xAxis": "201312",
+      "intervalTimestamp": "20130323010000000000",
+      "value": 1214,
+      "volume": 0,
+      "changeValue": -152,
+      "changeRate": -0.12520593080724876
+    },
+    {
+      "xAxis": "201313",
+      "intervalTimestamp": "20130330010000000000",
+      "value": 1128,
+      "volume": 0,
+      "changeValue": -86,
+      "changeRate": -0.07624113475177305
+    },
+    {
+      "xAxis": "201314",
+      "intervalTimestamp": "20130406010000000000",
+      "value": 1073,
+      "volume": 0,
+      "changeValue": -55,
+      "changeRate": -0.05125815470643057
+    },
+    {
+      "xAxis": "201315",
+      "intervalTimestamp": "20130413010000000000",
+      "value": 955,
+      "volume": 0,
+      "changeValue": -118,
+      "changeRate": -0.12356020942408377
+    },
+    {
+      "xAxis": "201316",
+      "intervalTimestamp": "20130420010000000000",
+      "value": 906,
+      "volume": 0,
+      "changeValue": -49,
+      "changeRate": -0.05408388520971302
+    },
+    {
+      "xAxis": "201317",
+      "intervalTimestamp": "20130427010000000000",
+      "value": 860,
+      "volume": 0,
+      "changeValue": -46,
+      "changeRate": -0.053488372093023255
+    },
+    {
+      "xAxis": "201318",
+      "intervalTimestamp": "20130504010000000000",
+      "value": 841,
+      "volume": 0,
+      "changeValue": -19,
+      "changeRate": -0.022592152199762187
+    },
+    {
+      "xAxis": "201319",
+      "intervalTimestamp": "20130511010000000000",
+      "value": 805,
+      "volume": 0,
+      "changeValue": -36,
+      "changeRate": -0.04472049689440994
+    },
+    {
+      "xAxis": "201320",
+      "intervalTimestamp": "20130518010000000000",
+      "value": 779,
+      "volume": 0,
+      "changeValue": -577,
+      "changeRate": -0.7406931964056482
+    },
+    {
+      "xAxis": "201321",
+      "intervalTimestamp": "20130525010000000000",
+      "value": 760,
+      "volume": 0,
+      "changeValue": -19,
+      "changeRate": -0.025
+    },
+    {
+      "xAxis": "201322",
+      "intervalTimestamp": "20130601010000000000",
+      "value": 1207,
+      "volume": 0,
+      "changeValue": 447,
+      "changeRate": 0.37033968516984256
+    },
+    {
+      "xAxis": "201323",
+      "intervalTimestamp": "20130608010000000000",
+      "value": 1222,
+      "volume": 0,
+      "changeValue": 15,
+      "changeRate": 0.012274959083469721
+    },
+    {
+      "xAxis": "201324",
+      "intervalTimestamp": "20130615010000000000",
+      "value": 1202,
+      "volume": 0,
+      "changeValue": -20,
+      "changeRate": -0.016638935108153077
+    },
+    {
+      "xAxis": "201325",
+      "intervalTimestamp": "20130622010000000000",
+      "value": 1166,
+      "volume": 0,
+      "changeValue": -36,
+      "changeRate": -0.030874785591766724
+    },
+    {
+      "xAxis": "201326",
+      "intervalTimestamp": "20130629010000000000",
+      "value": 1386,
+      "volume": 0,
+      "changeValue": 220,
+      "changeRate": 0.15873015873015872
+    },
+    {
+      "xAxis": "201327",
+      "intervalTimestamp": "20130706010000000000",
+      "value": 1362,
+      "volume": 0,
+      "changeValue": -24,
+      "changeRate": -0.01762114537444934
+    },
+    {
+      "xAxis": "201328",
+      "intervalTimestamp": "20130713010000000000",
+      "value": 1298,
+      "volume": 0,
+      "changeValue": -64,
+      "changeRate": -0.04930662557781202
+    },
+    {
+      "xAxis": "201329",
+      "intervalTimestamp": "20130720010000000000",
+      "value": 1235,
+      "volume": 0,
+      "changeValue": -63,
+      "changeRate": -0.05101214574898785
+    },
+    {
+      "xAxis": "201330",
+      "intervalTimestamp": "20130727010000000000",
+      "value": 1234,
+      "volume": 0,
+      "changeValue": -77,
+      "changeRate": -0.06239870340356564
+    },
+    {
+      "xAxis": "201331",
+      "intervalTimestamp": "20130803010000000000",
+      "value": 1493,
+      "volume": 0,
+      "changeValue": 259,
+      "changeRate": 0.17347622237106497
+    },
+    {
+      "xAxis": "201332",
+      "intervalTimestamp": "20130810010000000000",
+      "value": 1410,
+      "volume": 0,
+      "changeValue": -83,
+      "changeRate": -0.058865248226950356
+    },
+    {
+      "xAxis": "201333",
+      "intervalTimestamp": "20130817010000000000",
+      "value": 1312,
+      "volume": 0,
+      "changeValue": -98,
+      "changeRate": -0.07469512195121951
+    },
+    {
+      "xAxis": "201334",
+      "intervalTimestamp": "20130824010000000000",
+      "value": 1244,
+      "volume": 0,
+      "changeValue": -68,
+      "changeRate": -0.05466237942122187
+    },
+    {
+      "xAxis": "201335",
+      "intervalTimestamp": "20130831010000000000",
+      "value": 1211,
+      "volume": 0,
+      "changeValue": -33,
+      "changeRate": -0.027250206440957887
+    },
+    {
+      "xAxis": "201336",
+      "intervalTimestamp": "20130907010000000000",
+      "value": 1115,
+      "volume": 0,
+      "changeValue": -96,
+      "changeRate": -0.08609865470852018
+    },
+    {
+      "xAxis": "201337",
+      "intervalTimestamp": "20130914010000000000",
+      "value": 1006,
+      "volume": 0,
+      "changeValue": -109,
+      "changeRate": -0.10834990059642147
+    },
+    {
+      "xAxis": "201338",
+      "intervalTimestamp": "20130921010000000000",
+      "value": 944,
+      "volume": 0,
+      "changeValue": -62,
+      "changeRate": -0.06567796610169492
+    },
+    {
+      "xAxis": "201339",
+      "intervalTimestamp": "20130928010000000000",
+      "value": 837,
+      "volume": 0,
+      "changeValue": -107,
+      "changeRate": -0.12783751493428913
+    },
+    {
+      "xAxis": "201340",
+      "intervalTimestamp": "20131005010000000000",
+      "value": 781.5,
+      "volume": 0,
+      "changeValue": -519.5,
+      "changeRate": -0.6647472808701216
+    },
+    {
+      "xAxis": "201341",
+      "intervalTimestamp": "20131012010000000000",
+      "value": 726,
+      "volume": 0,
+      "changeValue": -55.5,
+      "changeRate": -0.07644628099173553
+    },
+    {
+      "xAxis": "201342",
+      "intervalTimestamp": "20131019010000000000",
+      "value": 705,
+      "volume": 0,
+      "changeValue": -21,
+      "changeRate": -0.029787234042553193
+    },
+    {
+      "xAxis": "201343",
+      "intervalTimestamp": "20131026010000000000",
+      "value": 708,
+      "volume": 0,
+      "changeValue": 3,
+      "changeRate": 0.00423728813559322
+    },
+    {
+      "xAxis": "201344",
+      "intervalTimestamp": "20131102010000000000",
+      "value": 1499,
+      "volume": 0,
+      "changeValue": 791,
+      "changeRate": 0.5276851234156104
+    },
+    {
+      "xAxis": "201345",
+      "intervalTimestamp": "20131109010000000000",
+      "value": 1382,
+      "volume": 0,
+      "changeValue": -117,
+      "changeRate": -0.08465991316931983
+    },
+    {
+      "xAxis": "201346",
+      "intervalTimestamp": "20131116010000000000",
+      "value": 1308,
+      "volume": 0,
+      "changeValue": -74,
+      "changeRate": -0.05657492354740061
+    },
+    {
+      "xAxis": "201347",
+      "intervalTimestamp": "20131123010000000000",
+      "value": 1227,
+      "volume": 0,
+      "changeValue": -81,
+      "changeRate": -0.06601466992665037
+    },
+    {
+      "xAxis": "201348",
+      "intervalTimestamp": "20131130010000000000",
+      "value": 1108,
+      "volume": 0,
+      "changeValue": -119,
+      "changeRate": -0.10740072202166065
+    },
+    {
+      "xAxis": "201349",
+      "intervalTimestamp": "20131207010000000000",
+      "value": 1076,
+      "volume": 0,
+      "changeValue": -32,
+      "changeRate": -0.02973977695167286
+    },
+    {
+      "xAxis": "201350",
+      "intervalTimestamp": "20131214010000000000",
+      "value": 1662,
+      "volume": 0,
+      "changeValue": 377,
+      "changeRate": 0.22683513838748495
+    },
+    {
+      "xAxis": "201351",
+      "intervalTimestamp": "20131221010000000000",
+      "value": 1601,
+      "volume": 0,
+      "changeValue": -61,
+      "changeRate": -0.038101186758276076
+    },
+    {
+      "xAxis": "201352",
+      "intervalTimestamp": "20131228010000000000",
+      "value": 1570,
+      "volume": 0,
+      "changeValue": -31,
+      "changeRate": -0.019745222929936305
+    },
+    {
+      "xAxis": "20141",
+      "intervalTimestamp": "20140104010000000000",
+      "value": 1516,
+      "volume": 0,
+      "changeValue": 483,
+      "changeRate": 0.3186015831134565
+    },
+    {
+      "xAxis": "20142",
+      "intervalTimestamp": "20140111010000000000",
+      "value": 1745,
+      "volume": 0,
+      "changeValue": 147,
+      "changeRate": 0.08424068767908309
+    },
+    {
+      "xAxis": "20143",
+      "intervalTimestamp": "20140118010000000000",
+      "value": 1670,
+      "volume": 0,
+      "changeValue": 184,
+      "changeRate": 0.11017964071856287
+    },
+    {
+      "xAxis": "20144",
+      "intervalTimestamp": "20140125010000000000",
+      "value": 1634,
+      "volume": 0,
+      "changeValue": 509,
+      "changeRate": 0.31150550795593634
+    },
+    {
+      "xAxis": "20145",
+      "intervalTimestamp": "20140201010000000000",
+      "value": 1609,
+      "volume": 0,
+      "changeValue": 694,
+      "changeRate": 0.43132380360472344
+    },
+    {
+      "xAxis": "20146",
+      "intervalTimestamp": "20140208010000000000",
+      "value": 1595,
+      "volume": 0,
+      "changeValue": 292,
+      "changeRate": 0.18307210031347962
+    },
+    {
+      "xAxis": "20147",
+      "intervalTimestamp": "20140215010000000000",
+      "value": 1414,
+      "volume": 0,
+      "changeValue": -181,
+      "changeRate": -0.128005657708628
+    },
+    {
+      "xAxis": "20148",
+      "intervalTimestamp": "20140222010000000000",
+      "value": 1264,
+      "volume": 0,
+      "changeValue": -150,
+      "changeRate": -0.11867088607594936
+    },
+    {
+      "xAxis": "20149",
+      "intervalTimestamp": "20140301010000000000",
+      "value": 1147,
+      "volume": 0,
+      "changeValue": -117,
+      "changeRate": -0.1020052310374891
+    },
+    {
+      "xAxis": "201410",
+      "intervalTimestamp": "20140308010000000000",
+      "value": 1033,
+      "volume": 0,
+      "changeValue": -483,
+      "changeRate": -0.4675701839303001
+    },
+    {
+      "xAxis": "201411",
+      "intervalTimestamp": "20140315010000000000",
+      "value": 935,
+      "volume": 0,
+      "changeValue": -98,
+      "changeRate": -0.10481283422459893
+    },
+    {
+      "xAxis": "201412",
+      "intervalTimestamp": "20140322010000000000",
+      "value": 893,
+      "volume": 0,
+      "changeValue": -42,
+      "changeRate": -0.04703247480403135
+    },
+    {
+      "xAxis": "201413",
+      "intervalTimestamp": "20140329010000000000",
+      "value": 1401,
+      "volume": 0,
+      "changeValue": 508,
+      "changeRate": 0.3625981441827266
+    },
+    {
+      "xAxis": "201414",
+      "intervalTimestamp": "20140405010000000000",
+      "value": 1347,
+      "volume": 0,
+      "changeValue": -54,
+      "changeRate": -0.0400890868596882
+    },
+    {
+      "xAxis": "201415",
+      "intervalTimestamp": "20140412010000000000",
+      "value": 1263,
+      "volume": 0,
+      "changeValue": -84,
+      "changeRate": -0.0665083135391924
+    },
+    {
+      "xAxis": "201416",
+      "intervalTimestamp": "20140419010000000000",
+      "value": 1182,
+      "volume": 0,
+      "changeValue": -81,
+      "changeRate": -0.06852791878172589
+    },
+    {
+      "xAxis": "201417",
+      "intervalTimestamp": "20140426010000000000",
+      "value": 1244,
+      "volume": 0,
+      "changeValue": 62,
+      "changeRate": 0.04983922829581994
+    },
+    {
+      "xAxis": "201418",
+      "intervalTimestamp": "20140503010000000000",
+      "value": 1458,
+      "volume": 0,
+      "changeValue": 214,
+      "changeRate": 0.1467764060356653
+    },
+    {
+      "xAxis": "201419",
+      "intervalTimestamp": "20140510010000000000",
+      "value": 1598,
+      "volume": 0,
+      "changeValue": 140,
+      "changeRate": 0.08760951188986232
+    },
+    {
+      "xAxis": "201420",
+      "intervalTimestamp": "20140517010000000000",
+      "value": 1562,
+      "volume": 0,
+      "changeValue": -183,
+      "changeRate": -0.11715749039692702
+    },
+    {
+      "xAxis": "201421",
+      "intervalTimestamp": "20140524010000000000",
+      "value": 1508,
+      "volume": 0,
+      "changeValue": -54,
+      "changeRate": -0.03580901856763926
+    },
+    {
+      "xAxis": "201422",
+      "intervalTimestamp": "20140531010000000000",
+      "value": 1611,
+      "volume": 0,
+      "changeValue": 103,
+      "changeRate": 0.06393544382371198
+    },
+    {
+      "xAxis": "201423",
+      "intervalTimestamp": "20140607010000000000",
+      "value": 1761,
+      "volume": 0,
+      "changeValue": 150,
+      "changeRate": 0.08517887563884156
+    },
+    {
+      "xAxis": "201424",
+      "intervalTimestamp": "20140614010000000000",
+      "value": 1671,
+      "volume": 0,
+      "changeValue": -90,
+      "changeRate": -0.05385996409335727
+    },
+    {
+      "xAxis": "201425",
+      "intervalTimestamp": "20140621010000000000",
+      "value": 1595,
+      "volume": 0,
+      "changeValue": -76,
+      "changeRate": -0.04764890282131661
+    },
+    {
+      "xAxis": "201426",
+      "intervalTimestamp": "20140628010000000000",
+      "value": 1567,
+      "volume": 0,
+      "changeValue": -28,
+      "changeRate": -0.017868538608806637
+    },
+    {
+      "xAxis": "201427",
+      "intervalTimestamp": "20140705010000000000",
+      "value": 1700,
+      "volume": 0,
+      "changeValue": 133,
+      "changeRate": 0.07823529411764706
+    },
+    {
+      "xAxis": "201428",
+      "intervalTimestamp": "20140712010000000000",
+      "value": 1567,
+      "volume": 0,
+      "changeValue": -133,
+      "changeRate": -0.08487555839183153
+    },
+    {
+      "xAxis": "201429",
+      "intervalTimestamp": "20140719010000000000",
+      "value": 1486,
+      "volume": 0,
+      "changeValue": -81,
+      "changeRate": -0.05450874831763122
+    },
+    {
+      "xAxis": "201430",
+      "intervalTimestamp": "20140726010000000000",
+      "value": 1459,
+      "volume": 0,
+      "changeValue": -211,
+      "changeRate": -0.14461960246744346
+    },
+    {
+      "xAxis": "201431",
+      "intervalTimestamp": "20140802010000000000",
+      "value": 1608,
+      "volume": 0,
+      "changeValue": 149,
+      "changeRate": 0.09266169154228855
+    },
+    {
+      "xAxis": "201432",
+      "intervalTimestamp": "20140809010000000000",
+      "value": 1613,
+      "volume": 0,
+      "changeValue": 5,
+      "changeRate": 0.0030998140111593306
+    },
+    {
+      "xAxis": "201433",
+      "intervalTimestamp": "20140816010000000000",
+      "value": 1524,
+      "volume": 0,
+      "changeValue": -89,
+      "changeRate": -0.0583989501312336
+    },
+    {
+      "xAxis": "201434",
+      "intervalTimestamp": "20140823010000000000",
+      "value": 1427,
+      "volume": 0,
+      "changeValue": -97,
+      "changeRate": -0.06797477224947442
+    },
+    {
+      "xAxis": "201435",
+      "intervalTimestamp": "20140830010000000000",
+      "value": 1378,
+      "volume": 0,
+      "changeValue": -49,
+      "changeRate": -0.03555878084179971
+    },
+    {
+      "xAxis": "201436",
+      "intervalTimestamp": "20140906010000000000",
+      "value": 1487,
+      "volume": 0,
+      "changeValue": 109,
+      "changeRate": 0.07330195023537324
+    },
+    {
+      "xAxis": "201437",
+      "intervalTimestamp": "20140913010000000000",
+      "value": 1357,
+      "volume": 0,
+      "changeValue": -130,
+      "changeRate": -0.09579955784819455
+    },
+    {
+      "xAxis": "201438",
+      "intervalTimestamp": "20140920010000000000",
+      "value": 1237,
+      "volume": 0,
+      "changeValue": -120,
+      "changeRate": -0.09700889248181083
+    },
+    {
+      "xAxis": "201439",
+      "intervalTimestamp": "20140927010000000000",
+      "value": 1125,
+      "volume": 0,
+      "changeValue": -112,
+      "changeRate": -0.09955555555555555
+    },
+    {
+      "xAxis": "201440",
+      "intervalTimestamp": "20141004010000000000",
+      "value": 1079,
+      "volume": 0,
+      "changeValue": -555,
+      "changeRate": -0.5143651529193698
+    },
+    {
+      "xAxis": "201441",
+      "intervalTimestamp": "20141011010000000000",
+      "value": 1033,
+      "volume": 0,
+      "changeValue": -46,
+      "changeRate": -0.044530493707647625
+    },
+    {
+      "xAxis": "201442",
+      "intervalTimestamp": "20141018010000000000",
+      "value": 965,
+      "volume": 0,
+      "changeValue": -68,
+      "changeRate": -0.07046632124352331
+    },
+    {
+      "xAxis": "201443",
+      "intervalTimestamp": "20141025010000000000",
+      "value": 936,
+      "volume": 0,
+      "changeValue": -29,
+      "changeRate": -0.030982905982905984
+    },
+    {
+      "xAxis": "201444",
+      "intervalTimestamp": "20141101010000000000",
+      "value": 1416,
+      "volume": 0,
+      "changeValue": 480,
+      "changeRate": 0.3389830508474576
+    },
+    {
+      "xAxis": "201445",
+      "intervalTimestamp": "20141108010000000000",
+      "value": 1305,
+      "volume": 0,
+      "changeValue": -111,
+      "changeRate": -0.08505747126436781
+    },
+    {
+      "xAxis": "201446",
+      "intervalTimestamp": "20141115010000000000",
+      "value": 1127,
+      "volume": 0,
+      "changeValue": -178,
+      "changeRate": -0.15794143744454303
+    },
+    {
+      "xAxis": "201447",
+      "intervalTimestamp": "20141122010000000000",
+      "value": 1013,
+      "volume": 0,
+      "changeValue": -114,
+      "changeRate": -0.1125370187561698
+    },
+    {
+      "xAxis": "201448",
+      "intervalTimestamp": "20141129010000000000",
+      "value": 952,
+      "volume": 0,
+      "changeValue": -61,
+      "changeRate": -0.06407563025210083
+    },
+    {
+      "xAxis": "201449",
+      "intervalTimestamp": "20141206010000000000",
+      "value": 915,
+      "volume": 0,
+      "changeValue": -37,
+      "changeRate": -0.040437158469945354
+    },
+    {
+      "xAxis": "201450",
+      "intervalTimestamp": "20141213010000000000",
+      "value": 1443,
+      "volume": 0,
+      "changeValue": -166,
+      "changeRate": -0.11503811503811504
+    },
+    {
+      "xAxis": "201451",
+      "intervalTimestamp": "20141220010000000000",
+      "value": 1392,
+      "volume": 0,
+      "changeValue": -51,
+      "changeRate": -0.036637931034482756
+    },
+    {
+      "xAxis": "201452",
+      "intervalTimestamp": "20141227010000000000",
+      "value": 1303,
+      "volume": 0,
+      "changeValue": -89,
+      "changeRate": -0.06830391404451266
+    },
+    {
+      "xAxis": "20151",
+      "intervalTimestamp": "20151010000000000",
+      "value": 1303,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "20152",
+      "intervalTimestamp": "20150110010000000000",
+      "value": 1174,
+      "volume": 0,
+      "changeValue": 171,
+      "changeRate": 0.14565587734241908
+    },
+    {
+      "xAxis": "20153",
+      "intervalTimestamp": "20150117010000000000",
+      "value": 1360,
+      "volume": 0,
+      "changeValue": 831,
+      "changeRate": 0.6110294117647059
+    },
+    {
+      "xAxis": "20154",
+      "intervalTimestamp": "20150124010000000000",
+      "value": 1460,
+      "volume": 0,
+      "changeValue": 1147,
+      "changeRate": 0.7856164383561643
+    },
+    {
+      "xAxis": "20155",
+      "intervalTimestamp": "20150131010000000000",
+      "value": 1427,
+      "volume": 0,
+      "changeValue": 647,
+      "changeRate": 0.4533987386124737
+    },
+    {
+      "xAxis": "20156",
+      "intervalTimestamp": "20150207010000000000",
+      "value": 1373,
+      "volume": 0,
+      "changeValue": 116,
+      "changeRate": 0.08448652585579024
+    },
+    {
+      "xAxis": "20157",
+      "intervalTimestamp": "20150214010000000000",
+      "value": 1355,
+      "volume": 0,
+      "changeValue": -18,
+      "changeRate": -0.013284132841328414
+    },
+    {
+      "xAxis": "20158",
+      "intervalTimestamp": "20150221010000000000",
+      "value": 1314,
+      "volume": 0,
+      "changeValue": -41,
+      "changeRate": -0.03120243531202435
+    },
+    {
+      "xAxis": "20159",
+      "intervalTimestamp": "20150228010000000000",
+      "value": 1273,
+      "volume": 0,
+      "changeValue": -41,
+      "changeRate": -0.03220738413197172
+    },
+    {
+      "xAxis": "201510",
+      "intervalTimestamp": "20150307010000000000",
+      "value": 1134,
+      "volume": 0,
+      "changeValue": -13,
+      "changeRate": -0.01146384479717813
+    },
+    {
+      "xAxis": "201511",
+      "intervalTimestamp": "20150314010000000000",
+      "value": 956,
+      "volume": 0,
+      "changeValue": -178,
+      "changeRate": -0.18619246861924685
+    },
+    {
+      "xAxis": "201512",
+      "intervalTimestamp": "20150321010000000000",
+      "value": 808,
+      "volume": 0,
+      "changeValue": -148,
+      "changeRate": -0.18316831683168316
+    },
+    {
+      "xAxis": "201513",
+      "intervalTimestamp": "20150328010000000000",
+      "value": 735,
+      "volume": 0,
+      "changeValue": -73,
+      "changeRate": -0.09931972789115646
+    },
+    {
+      "xAxis": "201514",
+      "intervalTimestamp": "20150404010000000000",
+      "value": 663,
+      "volume": 0,
+      "changeValue": -72,
+      "changeRate": -0.1085972850678733
+    },
+    {
+      "xAxis": "201515",
+      "intervalTimestamp": "20150411010000000000",
+      "value": 607,
+      "volume": 0,
+      "changeValue": -56,
+      "changeRate": -0.09225700164744646
+    },
+    {
+      "xAxis": "201516",
+      "intervalTimestamp": "20150418010000000000",
+      "value": 540,
+      "volume": 0,
+      "changeValue": -67,
+      "changeRate": -0.12407407407407407
+    },
+    {
+      "xAxis": "201517",
+      "intervalTimestamp": "20150425010000000000",
+      "value": 476,
+      "volume": 0,
+      "changeValue": -64,
+      "changeRate": -0.13445378151260504
+    },
+    {
+      "xAxis": "201518",
+      "intervalTimestamp": "20150502010000000000",
+      "value": 684,
+      "volume": 0,
+      "changeValue": 208,
+      "changeRate": 0.30409356725146197
+    },
+    {
+      "xAxis": "201519",
+      "intervalTimestamp": "20150509010000000000",
+      "value": 1003,
+      "volume": 0,
+      "changeValue": 319,
+      "changeRate": 0.3180458624127617
+    },
+    {
+      "xAxis": "201520",
+      "intervalTimestamp": "20150516010000000000",
+      "value": 776,
+      "volume": 0,
+      "changeValue": -398,
+      "changeRate": -0.5128865979381443
+    },
+    {
+      "xAxis": "201521",
+      "intervalTimestamp": "20150523010000000000",
+      "value": 581,
+      "volume": 0,
+      "changeValue": -195,
+      "changeRate": -0.33562822719449226
+    },
+    {
+      "xAxis": "201522",
+      "intervalTimestamp": "20150530010000000000",
+      "value": 466,
+      "volume": 0,
+      "changeValue": -115,
+      "changeRate": -0.24678111587982832
+    },
+    {
+      "xAxis": "201523",
+      "intervalTimestamp": "20150606010000000000",
+      "value": 379,
+      "volume": 0,
+      "changeValue": -87,
+      "changeRate": -0.22955145118733508
+    },
+    {
+      "xAxis": "201524",
+      "intervalTimestamp": "20150613010000000000",
+      "value": 312,
+      "volume": 0,
+      "changeValue": -67,
+      "changeRate": -0.21474358974358973
+    },
+    {
+      "xAxis": "201525",
+      "intervalTimestamp": "20150620010000000000",
+      "value": 274,
+      "volume": 0,
+      "changeValue": -38,
+      "changeRate": -0.1386861313868613
+    },
+    {
+      "xAxis": "201526",
+      "intervalTimestamp": "20150627010000000000",
+      "value": 675,
+      "volume": 0,
+      "changeValue": 401,
+      "changeRate": 0.5940740740740741
+    },
+    {
+      "xAxis": "201527",
+      "intervalTimestamp": "20150704010000000000",
+      "value": 941,
+      "volume": 0,
+      "changeValue": 266,
+      "changeRate": 0.2826780021253985
+    },
+    {
+      "xAxis": "201528",
+      "intervalTimestamp": "20150711010000000000",
+      "value": 737,
+      "volume": 0,
+      "changeValue": -204,
+      "changeRate": -0.276797829036635
+    },
+    {
+      "xAxis": "201529",
+      "intervalTimestamp": "20150718010000000000",
+      "value": 529,
+      "volume": 0,
+      "changeValue": -208,
+      "changeRate": -0.3931947069943289
+    },
+    {
+      "xAxis": "201530",
+      "intervalTimestamp": "20150725010000000000",
+      "value": 402,
+      "volume": 0,
+      "changeValue": -958,
+      "changeRate": -2.383084577114428
+    },
+    {
+      "xAxis": "201531",
+      "intervalTimestamp": "20150801010000000000",
+      "value": 1119,
+      "volume": 0,
+      "changeValue": 717,
+      "changeRate": 0.6407506702412868
+    },
+    {
+      "xAxis": "201532",
+      "intervalTimestamp": "20150808010000000000",
+      "value": 879,
+      "volume": 0,
+      "changeValue": -240,
+      "changeRate": -0.27303754266211605
+    },
+    {
+      "xAxis": "201533",
+      "intervalTimestamp": "20150815010000000000",
+      "value": 661,
+      "volume": 0,
+      "changeValue": -218,
+      "changeRate": -0.329803328290469
+    },
+    {
+      "xAxis": "201534",
+      "intervalTimestamp": "20150822010000000000",
+      "value": 449,
+      "volume": 0,
+      "changeValue": -212,
+      "changeRate": -0.47216035634743875
+    },
+    {
+      "xAxis": "201535",
+      "intervalTimestamp": "20150829010000000000",
+      "value": 697,
+      "volume": 0,
+      "changeValue": 248,
+      "changeRate": 0.35581061692969873
+    },
+    {
+      "xAxis": "201536",
+      "intervalTimestamp": "20150905010000000000",
+      "value": 865,
+      "volume": 0,
+      "changeValue": 168,
+      "changeRate": 0.19421965317919074
+    },
+    {
+      "xAxis": "201537",
+      "intervalTimestamp": "20150912010000000000",
+      "value": 613,
+      "volume": 0,
+      "changeValue": -252,
+      "changeRate": -0.4110929853181077
+    },
+    {
+      "xAxis": "201538",
+      "intervalTimestamp": "20150919010000000000",
+      "value": 448,
+      "volume": 0,
+      "changeValue": -165,
+      "changeRate": -0.36830357142857145
+    },
+    {
+      "xAxis": "201539",
+      "intervalTimestamp": "20150926010000000000",
+      "value": 313,
+      "volume": 0,
+      "changeValue": -135,
+      "changeRate": -0.43130990415335463
+    },
+    {
+      "xAxis": "201540",
+      "intervalTimestamp": "201540010000000000",
+      "value": 313,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "201541",
+      "intervalTimestamp": "20151010010000000000",
+      "value": 244,
+      "volume": 0,
+      "changeValue": -1216,
+      "changeRate": -4.983606557377049
+    },
+    {
+      "xAxis": "201542",
+      "intervalTimestamp": "20151017010000000000",
+      "value": 195,
+      "volume": 0,
+      "changeValue": -49,
+      "changeRate": -0.2512820512820513
+    },
+    {
+      "xAxis": "201543",
+      "intervalTimestamp": "20151024010000000000",
+      "value": 202,
+      "volume": 0,
+      "changeValue": 7,
+      "changeRate": 0.034653465346534656
+    },
+    {
+      "xAxis": "201544",
+      "intervalTimestamp": "20151031010000000000",
+      "value": 804,
+      "volume": 0,
+      "changeValue": 602,
+      "changeRate": 0.7487562189054726
+    },
+    {
+      "xAxis": "201545",
+      "intervalTimestamp": "20151107010000000000",
+      "value": 646,
+      "volume": 0,
+      "changeValue": -158,
+      "changeRate": -0.24458204334365324
+    },
+    {
+      "xAxis": "201546",
+      "intervalTimestamp": "20151114010000000000",
+      "value": 406,
+      "volume": 0,
+      "changeValue": -240,
+      "changeRate": -0.5911330049261084
+    },
+    {
+      "xAxis": "201547",
+      "intervalTimestamp": "20151121010000000000",
+      "value": 315,
+      "volume": 0,
+      "changeValue": -91,
+      "changeRate": -0.28888888888888886
+    },
+    {
+      "xAxis": "201548",
+      "intervalTimestamp": "20151128010000000000",
+      "value": 626,
+      "volume": 0,
+      "changeValue": 311,
+      "changeRate": 0.4968051118210863
+    },
+    {
+      "xAxis": "201549",
+      "intervalTimestamp": "20151205010000000000",
+      "value": 780,
+      "volume": 0,
+      "changeValue": 154,
+      "changeRate": 0.19743589743589743
+    },
+    {
+      "xAxis": "201550",
+      "intervalTimestamp": "20151212010000000000",
+      "value": 585,
+      "volume": 0,
+      "changeValue": -842,
+      "changeRate": -1.4393162393162393
+    },
+    {
+      "xAxis": "201551",
+      "intervalTimestamp": "20151219010000000000",
+      "value": 486,
+      "volume": 0,
+      "changeValue": -99,
+      "changeRate": -0.2037037037037037
+    },
+    {
+      "xAxis": "201552",
+      "intervalTimestamp": "20151226010000000000",
+      "value": 510,
+      "volume": 0,
+      "changeValue": 24,
+      "changeRate": 0.047058823529411764
+    },
+    {
+      "xAxis": "20161",
+      "intervalTimestamp": "20160102010000000000",
+      "value": 1022,
+      "volume": 0,
+      "changeValue": -251,
+      "changeRate": -0.2455968688845401
+    },
+    {
+      "xAxis": "20162",
+      "intervalTimestamp": "20160109010000000000",
+      "value": 869,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "20163",
+      "intervalTimestamp": "20160116010000000000",
+      "value": 629,
+      "volume": 0,
+      "changeValue": -35,
+      "changeRate": -0.05564387917329094
+    },
+    {
+      "xAxis": "20164",
+      "intervalTimestamp": "20160123010000000000",
+      "value": 488,
+      "volume": 0,
+      "changeValue": -95,
+      "changeRate": -0.19467213114754098
+    },
+    {
+      "xAxis": "20165",
+      "intervalTimestamp": "20160130010000000000",
+      "value": 454,
+      "volume": 0,
+      "changeValue": -490,
+      "changeRate": -1.079295154185022
+    },
+    {
+      "xAxis": "20166",
+      "intervalTimestamp": "20160206010000000000",
+      "value": 399,
+      "volume": 0,
+      "changeValue": -687,
+      "changeRate": -1.7218045112781954
+    },
+    {
+      "xAxis": "20167",
+      "intervalTimestamp": "20160213010000000000",
+      "value": 344,
+      "volume": 0,
+      "changeValue": -55,
+      "changeRate": -0.15988372093023256
+    },
+    {
+      "xAxis": "20168",
+      "intervalTimestamp": "20160220010000000000",
+      "value": 266,
+      "volume": 0,
+      "changeValue": -78,
+      "changeRate": -0.2932330827067669
+    },
+    {
+      "xAxis": "20169",
+      "intervalTimestamp": "20160227010000000000",
+      "value": 236,
+      "volume": 0,
+      "changeValue": -30,
+      "changeRate": -0.1271186440677966
+    },
+    {
+      "xAxis": "201610",
+      "intervalTimestamp": "20160305010000000000",
+      "value": 203,
+      "volume": 0,
+      "changeValue": -819,
+      "changeRate": -4.0344827586206895
+    },
+    {
+      "xAxis": "201611",
+      "intervalTimestamp": "20160312010000000000",
+      "value": 195,
+      "volume": 0,
+      "changeValue": -8,
+      "changeRate": -0.041025641025641026
+    },
+    {
+      "xAxis": "201612",
+      "intervalTimestamp": "20160319010000000000",
+      "value": 248,
+      "volume": 0,
+      "changeValue": 53,
+      "changeRate": 0.21370967741935484
+    },
+    {
+      "xAxis": "201613",
+      "intervalTimestamp": "20160326010000000000",
+      "value": 507,
+      "volume": 0,
+      "changeValue": 259,
+      "changeRate": 0.5108481262327417
+    },
+    {
+      "xAxis": "201614",
+      "intervalTimestamp": "20160402010000000000",
+      "value": 438,
+      "volume": 0,
+      "changeValue": -69,
+      "changeRate": -0.15753424657534246
+    },
+    {
+      "xAxis": "201615",
+      "intervalTimestamp": "20160409010000000000",
+      "value": 409,
+      "volume": 0,
+      "changeValue": -29,
+      "changeRate": -0.07090464547677261
+    },
+    {
+      "xAxis": "201616",
+      "intervalTimestamp": "20160416010000000000",
+      "value": 397,
+      "volume": 0,
+      "changeValue": -12,
+      "changeRate": -0.030226700251889168
+    },
+    {
+      "xAxis": "201617",
+      "intervalTimestamp": "20160423010000000000",
+      "value": 944,
+      "volume": 0,
+      "changeValue": 547,
+      "changeRate": 0.5794491525423728
+    },
+    {
+      "xAxis": "201618",
+      "intervalTimestamp": "20160430010000000000",
+      "value": 873,
+      "volume": 0,
+      "changeValue": -71,
+      "changeRate": -0.08132875143184422
+    },
+    {
+      "xAxis": "201619",
+      "intervalTimestamp": "20160507010000000000",
+      "value": 869,
+      "volume": 0,
+      "changeValue": -4,
+      "changeRate": -0.004602991944764097
+    },
+    {
+      "xAxis": "201620",
+      "intervalTimestamp": "20160514010000000000",
+      "value": 754,
+      "volume": 0,
+      "changeValue": -115,
+      "changeRate": -0.15251989389920426
+    },
+    {
+      "xAxis": "201621",
+      "intervalTimestamp": "20160521010000000000",
+      "value": 918,
+      "volume": 0,
+      "changeValue": 164,
+      "changeRate": 0.1786492374727669
+    },
+    {
+      "xAxis": "201622",
+      "intervalTimestamp": "20160528010000000000",
+      "value": 889,
+      "volume": 0,
+      "changeValue": -29,
+      "changeRate": -0.03262092238470191
+    },
+    {
+      "xAxis": "201623",
+      "intervalTimestamp": "20160604010000000000",
+      "value": 788,
+      "volume": 0,
+      "changeValue": -101,
+      "changeRate": -0.1281725888324873
+    },
+    {
+      "xAxis": "201624",
+      "intervalTimestamp": "20160611010000000000",
+      "value": 660,
+      "volume": 0,
+      "changeValue": -128,
+      "changeRate": -0.19393939393939394
+    },
+    {
+      "xAxis": "201625",
+      "intervalTimestamp": "20160618010000000000",
+      "value": 776,
+      "volume": 0,
+      "changeValue": 116,
+      "changeRate": 0.14948453608247422
+    },
+    {
+      "xAxis": "201626",
+      "intervalTimestamp": "20160625010000000000",
+      "value": 1172,
+      "volume": 0,
+      "changeValue": 396,
+      "changeRate": 0.3378839590443686
+    },
+    {
+      "xAxis": "201627",
+      "intervalTimestamp": "20160702010000000000",
+      "value": 951,
+      "volume": 0,
+      "changeValue": -221,
+      "changeRate": -0.2323869610935857
+    },
+    {
+      "xAxis": "201628",
+      "intervalTimestamp": "20160709010000000000",
+      "value": 758,
+      "volume": 0,
+      "changeValue": -193,
+      "changeRate": -0.2546174142480211
+    },
+    {
+      "xAxis": "201629",
+      "intervalTimestamp": "20160716010000000000",
+      "value": 664,
+      "volume": 0,
+      "changeValue": -94,
+      "changeRate": -0.14156626506024098
+    },
+    {
+      "xAxis": "201630",
+      "intervalTimestamp": "20160723010000000000",
+      "value": 1004,
+      "volume": 0,
+      "changeValue": 375,
+      "changeRate": 0.37350597609561753
+    },
+    {
+      "xAxis": "201631",
+      "intervalTimestamp": "20160730010000000000",
+      "value": 865,
+      "volume": 0,
+      "changeValue": -139,
+      "changeRate": -0.1606936416184971
+    },
+    {
+      "xAxis": "201632",
+      "intervalTimestamp": "20160806010000000000",
+      "value": 699,
+      "volume": 0,
+      "changeValue": -166,
+      "changeRate": -0.2374821173104435
+    },
+    {
+      "xAxis": "201633",
+      "intervalTimestamp": "20160813010000000000",
+      "value": 594,
+      "volume": 0,
+      "changeValue": -105,
+      "changeRate": -0.17676767676767677
+    },
+    {
+      "xAxis": "201634",
+      "intervalTimestamp": "20160820010000000000",
+      "value": 553,
+      "volume": 0,
+      "changeValue": -41,
+      "changeRate": -0.07414104882459313
+    },
+    {
+      "xAxis": "201635",
+      "intervalTimestamp": "20160827010000000000",
+      "value": 519,
+      "volume": 0,
+      "changeValue": -34,
+      "changeRate": -0.06551059730250482
+    },
+    {
+      "xAxis": "201636",
+      "intervalTimestamp": "20160903010000000000",
+      "value": 702,
+      "volume": 0,
+      "changeValue": 183,
+      "changeRate": 0.2606837606837607
+    },
+    {
+      "xAxis": "201637",
+      "intervalTimestamp": "20160910010000000000",
+      "value": 860,
+      "volume": 0,
+      "changeValue": 158,
+      "changeRate": 0.18372093023255814
+    },
+    {
+      "xAxis": "201638",
+      "intervalTimestamp": "20160917010000000000",
+      "value": 667,
+      "volume": 0,
+      "changeValue": -193,
+      "changeRate": -0.2893553223388306
+    },
+    {
+      "xAxis": "201639",
+      "intervalTimestamp": "20160924010000000000",
+      "value": 583,
+      "volume": 0,
+      "changeValue": -84,
+      "changeRate": -0.14408233276157806
+    },
+    {
+      "xAxis": "201640",
+      "intervalTimestamp": "20161001010000000000",
+      "value": 574,
+      "volume": 0,
+      "changeValue": 86,
+      "changeRate": 0.14982578397212543
+    },
+    {
+      "xAxis": "201641",
+      "intervalTimestamp": "20161008010000000000",
+      "value": 565,
+      "volume": 0,
+      "changeValue": -9,
+      "changeRate": -0.01592920353982301
+    },
+    {
+      "xAxis": "201642",
+      "intervalTimestamp": "20161015010000000000",
+      "value": 558,
+      "volume": 0,
+      "changeValue": -7,
+      "changeRate": -0.012544802867383513
+    },
+    {
+      "xAxis": "201643",
+      "intervalTimestamp": "20161022010000000000",
+      "value": 788,
+      "volume": 0,
+      "changeValue": 230,
+      "changeRate": 0.2918781725888325
+    },
+    {
+      "xAxis": "201644",
+      "intervalTimestamp": "20161029010000000000",
+      "value": 738,
+      "volume": 0,
+      "changeValue": -50,
+      "changeRate": -0.06775067750677506
+    },
+    {
+      "xAxis": "201645",
+      "intervalTimestamp": "20161105010000000000",
+      "value": 728,
+      "volume": 0,
+      "changeValue": -10,
+      "changeRate": -0.013736263736263736
+    },
+    {
+      "xAxis": "201646",
+      "intervalTimestamp": "20161112010000000000",
+      "value": 710,
+      "volume": 0,
+      "changeValue": -18,
+      "changeRate": -0.02535211267605634
+    },
+    {
+      "xAxis": "201647",
+      "intervalTimestamp": "20161119010000000000",
+      "value": 725,
+      "volume": 0,
+      "changeValue": 15,
+      "changeRate": 0.020689655172413793
+    },
+    {
+      "xAxis": "201648",
+      "intervalTimestamp": "20161126010000000000",
+      "value": 865,
+      "volume": 0,
+      "changeValue": 140,
+      "changeRate": 0.16184971098265896
+    },
+    {
+      "xAxis": "201649",
+      "intervalTimestamp": "20161203010000000000",
+      "value": 944,
+      "volume": 0,
+      "changeValue": 79,
+      "changeRate": 0.0836864406779661
+    },
+    {
+      "xAxis": "201650",
+      "intervalTimestamp": "20161210010000000000",
+      "value": 947,
+      "volume": 0,
+      "changeValue": 493,
+      "changeRate": 0.5205913410770855
+    },
+    {
+      "xAxis": "201651",
+      "intervalTimestamp": "20161217010000000000",
+      "value": 963,
+      "volume": 0,
+      "changeValue": 16,
+      "changeRate": 0.016614745586708203
+    },
+    {
+      "xAxis": "201652",
+      "intervalTimestamp": "20161224010000000000",
+      "value": 1086,
+      "volume": 0,
+      "changeValue": 123,
+      "changeRate": 0.1132596685082873
+    },
+    {
+      "xAxis": "201653",
+      "intervalTimestamp": "201653010000000000",
+      "value": 1086,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "20171",
+      "intervalTimestamp": "20170107010000000000",
+      "value": 1042,
+      "volume": 0,
+      "changeValue": 806,
+      "changeRate": 0.7735124760076776
+    },
+    {
+      "xAxis": "20172",
+      "intervalTimestamp": "20170114010000000000",
+      "value": 1028,
+      "volume": 0,
+      "changeValue": 79,
+      "changeRate": 0.07684824902723736
+    },
+    {
+      "xAxis": "20173",
+      "intervalTimestamp": "20170121010000000000",
+      "value": 1004,
+      "volume": 0,
+      "changeValue": 152,
+      "changeRate": 0.15139442231075698
+    },
+    {
+      "xAxis": "20174",
+      "intervalTimestamp": "20170128010000000000",
+      "value": 986,
+      "volume": 0,
+      "changeValue": 294,
+      "changeRate": 0.29817444219066935
+    },
+    {
+      "xAxis": "20175",
+      "intervalTimestamp": "20170204010000000000",
+      "value": 988,
+      "volume": 0,
+      "changeValue": 388,
+      "changeRate": 0.39271255060728744
+    },
+    {
+      "xAxis": "20176",
+      "intervalTimestamp": "20170211010000000000",
+      "value": 876,
+      "volume": 0,
+      "changeValue": 138,
+      "changeRate": 0.15753424657534246
+    },
+    {
+      "xAxis": "20177",
+      "intervalTimestamp": "20170218010000000000",
+      "value": 844,
+      "volume": 0,
+      "changeValue": -32,
+      "changeRate": -0.037914691943127965
+    },
+    {
+      "xAxis": "20178",
+      "intervalTimestamp": "20170225010000000000",
+      "value": 882,
+      "volume": 0,
+      "changeValue": 38,
+      "changeRate": 0.04308390022675737
+    },
+    {
+      "xAxis": "20179",
+      "intervalTimestamp": "20170304010000000000",
+      "value": 854,
+      "volume": 0,
+      "changeValue": -28,
+      "changeRate": -0.03278688524590164
+    },
+    {
+      "xAxis": "201710",
+      "intervalTimestamp": "20170311010000000000",
+      "value": 838,
+      "volume": 0,
+      "changeValue": -204,
+      "changeRate": -0.24343675417661098
+    },
+    {
+      "xAxis": "201711",
+      "intervalTimestamp": "20170318010000000000",
+      "value": 802,
+      "volume": 0,
+      "changeValue": -36,
+      "changeRate": -0.04488778054862843
+    },
+    {
+      "xAxis": "201712",
+      "intervalTimestamp": "20170325010000000000",
+      "value": 798,
+      "volume": 0,
+      "changeValue": -4,
+      "changeRate": -0.005012531328320802
+    },
+    {
+      "xAxis": "201713",
+      "intervalTimestamp": "20170401010000000000",
+      "value": 837,
+      "volume": 0,
+      "changeValue": 39,
+      "changeRate": 0.04659498207885305
+    },
+    {
+      "xAxis": "201714",
+      "intervalTimestamp": "20170408010000000000",
+      "value": 817,
+      "volume": 0,
+      "changeValue": -20,
+      "changeRate": -0.02447980416156671
+    },
+    {
+      "xAxis": "201715",
+      "intervalTimestamp": "20170415010000000000",
+      "value": 827,
+      "volume": 0,
+      "changeValue": 10,
+      "changeRate": 0.012091898428053204
+    },
+    {
+      "xAxis": "201716",
+      "intervalTimestamp": "20170422010000000000",
+      "value": 841,
+      "volume": 0,
+      "changeValue": 14,
+      "changeRate": 0.016646848989298454
+    },
+    {
+      "xAxis": "201717",
+      "intervalTimestamp": "20170429010000000000",
+      "value": 1011,
+      "volume": 0,
+      "changeValue": 170,
+      "changeRate": 0.1681503461918892
+    },
+    {
+      "xAxis": "201718",
+      "intervalTimestamp": "20170506010000000000",
+      "value": 988,
+      "volume": 0,
+      "changeValue": -23,
+      "changeRate": -0.02327935222672065
+    },
+    {
+      "xAxis": "201719",
+      "intervalTimestamp": "20170513010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": -39,
+      "changeRate": -0.0410958904109589
+    },
+    {
+      "xAxis": "201720",
+      "intervalTimestamp": "20170520010000000000",
+      "value": 914,
+      "volume": 0,
+      "changeValue": -114,
+      "changeRate": -0.12472647702407003
+    },
+    {
+      "xAxis": "201721",
+      "intervalTimestamp": "20170527010000000000",
+      "value": 945,
+      "volume": 0,
+      "changeValue": 31,
+      "changeRate": 0.0328042328042328
+    },
+    {
+      "xAxis": "201722",
+      "intervalTimestamp": "20170603010000000000",
+      "value": 920,
+      "volume": 0,
+      "changeValue": -25,
+      "changeRate": -0.02717391304347826
+    },
+    {
+      "xAxis": "201723",
+      "intervalTimestamp": "20170610010000000000",
+      "value": 904,
+      "volume": 0,
+      "changeValue": -16,
+      "changeRate": -0.017699115044247787
+    },
+    {
+      "xAxis": "201724",
+      "intervalTimestamp": "20170617010000000000",
+      "value": 877,
+      "volume": 0,
+      "changeValue": -27,
+      "changeRate": -0.03078677309007982
+    },
+    {
+      "xAxis": "201725",
+      "intervalTimestamp": "20170624010000000000",
+      "value": 878,
+      "volume": 0,
+      "changeValue": 1,
+      "changeRate": 0.0011389521640091116
+    },
+    {
+      "xAxis": "201726",
+      "intervalTimestamp": "20170701010000000000",
+      "value": 951,
+      "volume": 0,
+      "changeValue": 73,
+      "changeRate": 0.07676130389064142
+    },
+    {
+      "xAxis": "201727",
+      "intervalTimestamp": "20170708010000000000",
+      "value": 906,
+      "volume": 0,
+      "changeValue": -45,
+      "changeRate": -0.04966887417218543
+    },
+    {
+      "xAxis": "201728",
+      "intervalTimestamp": "20170715010000000000",
+      "value": 864,
+      "volume": 0,
+      "changeValue": -42,
+      "changeRate": -0.04861111111111111
+    },
+    {
+      "xAxis": "201729",
+      "intervalTimestamp": "20170722010000000000",
+      "value": 852,
+      "volume": 0,
+      "changeValue": -12,
+      "changeRate": -0.014084507042253521
+    },
+    {
+      "xAxis": "201730",
+      "intervalTimestamp": "20170729010000000000",
+      "value": 883,
+      "volume": 0,
+      "changeValue": -121,
+      "changeRate": -0.13703284258210646
+    },
+    {
+      "xAxis": "201731",
+      "intervalTimestamp": "20170805010000000000",
+      "value": 859,
+      "volume": 0,
+      "changeValue": -24,
+      "changeRate": -0.027939464493597205
+    },
+    {
+      "xAxis": "201732",
+      "intervalTimestamp": "20170812010000000000",
+      "value": 849,
+      "volume": 0,
+      "changeValue": -10,
+      "changeRate": -0.011778563015312132
+    },
+    {
+      "xAxis": "201733",
+      "intervalTimestamp": "20170819010000000000",
+      "value": 831,
+      "volume": 0,
+      "changeValue": -18,
+      "changeRate": -0.021660649819494584
+    },
+    {
+      "xAxis": "201734",
+      "intervalTimestamp": "20170826010000000000",
+      "value": 822,
+      "volume": 0,
+      "changeValue": -9,
+      "changeRate": -0.010948905109489052
+    },
+    {
+      "xAxis": "201735",
+      "intervalTimestamp": "20170902010000000000",
+      "value": 791,
+      "volume": 0,
+      "changeValue": -31,
+      "changeRate": -0.039190897597977246
+    },
+    {
+      "xAxis": "201736",
+      "intervalTimestamp": "20170909010000000000",
+      "value": 758,
+      "volume": 0,
+      "changeValue": -33,
+      "changeRate": -0.04353562005277045
+    },
+    {
+      "xAxis": "201737",
+      "intervalTimestamp": "20170916010000000000",
+      "value": 730,
+      "volume": 0,
+      "changeValue": -28,
+      "changeRate": -0.038356164383561646
+    },
+    {
+      "xAxis": "201738",
+      "intervalTimestamp": "20170923010000000000",
+      "value": 709,
+      "volume": 0,
+      "changeValue": -21,
+      "changeRate": -0.029619181946403384
+    },
+    {
+      "xAxis": "201739",
+      "intervalTimestamp": "20170930010000000000",
+      "value": 692,
+      "volume": 0,
+      "changeValue": -17,
+      "changeRate": -0.024566473988439308
+    },
+    {
+      "xAxis": "201740",
+      "intervalTimestamp": "201740010000000000",
+      "value": 692,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "201741",
+      "intervalTimestamp": "20171014010000000000",
+      "value": 652,
+      "volume": 0,
+      "changeValue": -334,
+      "changeRate": -0.5122699386503068
+    },
+    {
+      "xAxis": "201742",
+      "intervalTimestamp": "20171021010000000000",
+      "value": 646,
+      "volume": 0,
+      "changeValue": -6,
+      "changeRate": -0.009287925696594427
+    },
+    {
+      "xAxis": "201743",
+      "intervalTimestamp": "20171028010000000000",
+      "value": 640,
+      "volume": 0,
+      "changeValue": -6,
+      "changeRate": -0.009375
+    },
+    {
+      "xAxis": "201744",
+      "intervalTimestamp": "20171104010000000000",
+      "value": 660,
+      "volume": 0,
+      "changeValue": 20,
+      "changeRate": 0.030303030303030304
+    },
+    {
+      "xAxis": "201745",
+      "intervalTimestamp": "20171111010000000000",
+      "value": 619,
+      "volume": 0,
+      "changeValue": -41,
+      "changeRate": -0.06623586429725363
+    },
+    {
+      "xAxis": "201746",
+      "intervalTimestamp": "20171118010000000000",
+      "value": 595,
+      "volume": 0,
+      "changeValue": -24,
+      "changeRate": -0.040336134453781515
+    },
+    {
+      "xAxis": "201747",
+      "intervalTimestamp": "20171125010000000000",
+      "value": 593,
+      "volume": 0,
+      "changeValue": -2,
+      "changeRate": -0.003372681281618887
+    },
+    {
+      "xAxis": "201748",
+      "intervalTimestamp": "20171202010000000000",
+      "value": 598,
+      "volume": 0,
+      "changeValue": 5,
+      "changeRate": 0.008361204013377926
+    },
+    {
+      "xAxis": "201749",
+      "intervalTimestamp": "20171209010000000000",
+      "value": 600,
+      "volume": 0,
+      "changeValue": 2,
+      "changeRate": 0.0033333333333333335
+    },
+    {
+      "xAxis": "201750",
+      "intervalTimestamp": "20171216010000000000",
+      "value": 596,
+      "volume": 0,
+      "changeValue": -392,
+      "changeRate": -0.6577181208053692
+    },
+    {
+      "xAxis": "201751",
+      "intervalTimestamp": "20171223010000000000",
+      "value": 596,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "201752",
+      "intervalTimestamp": "20171230010000000000",
+      "value": 738,
+      "volume": 0,
+      "changeValue": 142,
+      "changeRate": 0.19241192411924118
+    },
+    {
+      "xAxis": "20181",
+      "intervalTimestamp": "20180106010000000000",
+      "value": 738,
+      "volume": 0,
+      "changeValue": -116,
+      "changeRate": -0.15718157181571815
+    },
+    {
+      "xAxis": "20182",
+      "intervalTimestamp": "20180113010000000000",
+      "value": 759,
+      "volume": 0,
+      "changeValue": -24,
+      "changeRate": -0.03162055335968379
+    },
+    {
+      "xAxis": "20183",
+      "intervalTimestamp": "20180120010000000000",
+      "value": 761,
+      "volume": 0,
+      "changeValue": -108,
+      "changeRate": -0.14191852825229961
+    },
+    {
+      "xAxis": "20184",
+      "intervalTimestamp": "20180127010000000000",
+      "value": 772,
+      "volume": 0,
+      "changeValue": 5,
+      "changeRate": 0.006476683937823834
+    },
+    {
+      "xAxis": "20185",
+      "intervalTimestamp": "20180203010000000000",
+      "value": 797,
+      "volume": 0,
+      "changeValue": 9,
+      "changeRate": 0.011292346298619825
+    },
+    {
+      "xAxis": "20186",
+      "intervalTimestamp": "20180210010000000000",
+      "value": 791,
+      "volume": 0,
+      "changeValue": -176,
+      "changeRate": -0.2225031605562579
+    },
+    {
+      "xAxis": "20187",
+      "intervalTimestamp": "20180217010000000000",
+      "value": 791,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "20188",
+      "intervalTimestamp": "20180224010000000000",
+      "value": 797,
+      "volume": 0,
+      "changeValue": 6,
+      "changeRate": 0.0075282308657465494
+    },
+    {
+      "xAxis": "20189",
+      "intervalTimestamp": "20180303010000000000",
+      "value": 721,
+      "volume": 0,
+      "changeValue": -76,
+      "changeRate": -0.10540915395284327
+    },
+    {
+      "xAxis": "201810",
+      "intervalTimestamp": "20180310010000000000",
+      "value": 701,
+      "volume": 0,
+      "changeValue": -37,
+      "changeRate": -0.052781740370898715
+    },
+    {
+      "xAxis": "201811",
+      "intervalTimestamp": "20180317010000000000",
+      "value": 665,
+      "volume": 0,
+      "changeValue": -36,
+      "changeRate": -0.05413533834586466
+    },
+    {
+      "xAxis": "201812",
+      "intervalTimestamp": "20180324010000000000",
+      "value": 650,
+      "volume": 0,
+      "changeValue": -15,
+      "changeRate": -0.023076923076923078
+    },
+    {
+      "xAxis": "201813",
+      "intervalTimestamp": "20180331010000000000",
+      "value": 615,
+      "volume": 0,
+      "changeValue": -35,
+      "changeRate": -0.056910569105691054
+    },
+    {
+      "xAxis": "201814",
+      "intervalTimestamp": "20180407010000000000",
+      "value": 616,
+      "volume": 0,
+      "changeValue": 1,
+      "changeRate": 0.0016233766233766235
+    },
+    {
+      "xAxis": "201815",
+      "intervalTimestamp": "20180414010000000000",
+      "value": 600,
+      "volume": 0,
+      "changeValue": -16,
+      "changeRate": -0.02666666666666667
+    },
+    {
+      "xAxis": "201816",
+      "intervalTimestamp": "20180421010000000000",
+      "value": 601,
+      "volume": 0,
+      "changeValue": 1,
+      "changeRate": 0.0016638935108153079
+    },
+    {
+      "xAxis": "201817",
+      "intervalTimestamp": "20180428010000000000",
+      "value": 694,
+      "volume": 0,
+      "changeValue": 93,
+      "changeRate": 0.1340057636887608
+    },
+    {
+      "xAxis": "201818",
+      "intervalTimestamp": "20180505010000000000",
+      "value": 756,
+      "volume": 0,
+      "changeValue": 62,
+      "changeRate": 0.082010582010582
+    },
+    {
+      "xAxis": "201819",
+      "intervalTimestamp": "20180512010000000000",
+      "value": 783,
+      "volume": 0,
+      "changeValue": 27,
+      "changeRate": 0.034482758620689655
+    },
+    {
+      "xAxis": "201820",
+      "intervalTimestamp": "20180519010000000000",
+      "value": 795,
+      "volume": 0,
+      "changeValue": 36,
+      "changeRate": 0.045283018867924525
+    },
+    {
+      "xAxis": "201821",
+      "intervalTimestamp": "20180526010000000000",
+      "value": 848,
+      "volume": 0,
+      "changeValue": 53,
+      "changeRate": 0.0625
+    },
+    {
+      "xAxis": "201822",
+      "intervalTimestamp": "20180602010000000000",
+      "value": 895,
+      "volume": 0,
+      "changeValue": 47,
+      "changeRate": 0.05251396648044693
+    },
+    {
+      "xAxis": "201823",
+      "intervalTimestamp": "20180609010000000000",
+      "value": 904,
+      "volume": 0,
+      "changeValue": 9,
+      "changeRate": 0.00995575221238938
+    },
+    {
+      "xAxis": "201824",
+      "intervalTimestamp": "20180616010000000000",
+      "value": 915,
+      "volume": 0,
+      "changeValue": 11,
+      "changeRate": 0.012021857923497269
+    },
+    {
+      "xAxis": "201825",
+      "intervalTimestamp": "20180623010000000000",
+      "value": 905,
+      "volume": 0,
+      "changeValue": -10,
+      "changeRate": -0.011049723756906077
+    },
+    {
+      "xAxis": "201826",
+      "intervalTimestamp": "20180630010000000000",
+      "value": 913,
+      "volume": 0,
+      "changeValue": 8,
+      "changeRate": 0.008762322015334063
+    },
+    {
+      "xAxis": "201827",
+      "intervalTimestamp": "20180707010000000000",
+      "value": 903,
+      "volume": 0,
+      "changeValue": -10,
+      "changeRate": -0.01107419712070875
+    },
+    {
+      "xAxis": "201828",
+      "intervalTimestamp": "20180714010000000000",
+      "value": 887,
+      "volume": 0,
+      "changeValue": -16,
+      "changeRate": -0.018038331454340473
+    },
+    {
+      "xAxis": "201829",
+      "intervalTimestamp": "20180721010000000000",
+      "value": 869,
+      "volume": 0,
+      "changeValue": -18,
+      "changeRate": -0.020713463751438434
+    },
+    {
+      "xAxis": "201830",
+      "intervalTimestamp": "20180728010000000000",
+      "value": 893,
+      "volume": 0,
+      "changeValue": 132,
+      "changeRate": 0.14781634938409854
+    },
+    {
+      "xAxis": "201831",
+      "intervalTimestamp": "20180804010000000000",
+      "value": 881,
+      "volume": 0,
+      "changeValue": -12,
+      "changeRate": -0.01362088535754824
+    },
+    {
+      "xAxis": "201832",
+      "intervalTimestamp": "20180811010000000000",
+      "value": 895,
+      "volume": 0,
+      "changeValue": 14,
+      "changeRate": 0.01564245810055866
+    },
+    {
+      "xAxis": "201833",
+      "intervalTimestamp": "20180818010000000000",
+      "value": 909,
+      "volume": 0,
+      "changeValue": 14,
+      "changeRate": 0.015401540154015401
+    },
+    {
+      "xAxis": "201834",
+      "intervalTimestamp": "20180825010000000000",
+      "value": 915,
+      "volume": 0,
+      "changeValue": 6,
+      "changeRate": 0.006557377049180328
+    },
+    {
+      "xAxis": "201835",
+      "intervalTimestamp": "20180901010000000000",
+      "value": 908,
+      "volume": 0,
+      "changeValue": -7,
+      "changeRate": -0.007709251101321586
+    },
+    {
+      "xAxis": "201836",
+      "intervalTimestamp": "20180908010000000000",
+      "value": 870,
+      "volume": 0,
+      "changeValue": -38,
+      "changeRate": -0.04367816091954023
+    },
+    {
+      "xAxis": "201837",
+      "intervalTimestamp": "20180915010000000000",
+      "value": 852,
+      "volume": 0,
+      "changeValue": -18,
+      "changeRate": -0.02112676056338028
+    },
+    {
+      "xAxis": "201838",
+      "intervalTimestamp": "20180922010000000000",
+      "value": 804,
+      "volume": 0,
+      "changeValue": -48,
+      "changeRate": -0.05970149253731343
+    },
+    {
+      "xAxis": "201839",
+      "intervalTimestamp": "20180929010000000000",
+      "value": 767,
+      "volume": 0,
+      "changeValue": -37,
+      "changeRate": -0.048239895697522815
+    },
+    {
+      "xAxis": "201840",
+      "intervalTimestamp": "201840010000000000",
+      "value": 767,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "201841",
+      "intervalTimestamp": "20181013010000000000",
+      "value": 751,
+      "volume": 0,
+      "changeValue": -21,
+      "changeRate": -0.02796271637816245
+    },
+    {
+      "xAxis": "201842",
+      "intervalTimestamp": "20181020010000000000",
+      "value": 751,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "201843",
+      "intervalTimestamp": "20181027010000000000",
+      "value": 778,
+      "volume": 0,
+      "changeValue": 27,
+      "changeRate": 0.03470437017994859
+    },
+    {
+      "xAxis": "201844",
+      "intervalTimestamp": "20181103010000000000",
+      "value": 769,
+      "volume": 0,
+      "changeValue": -9,
+      "changeRate": -0.011703511053315995
+    },
+    {
+      "xAxis": "201845",
+      "intervalTimestamp": "20181110010000000000",
+      "value": 767,
+      "volume": 0,
+      "changeValue": -2,
+      "changeRate": -0.002607561929595828
+    },
+    {
+      "xAxis": "201846",
+      "intervalTimestamp": "20181117010000000000",
+      "value": 757,
+      "volume": 0,
+      "changeValue": -10,
+      "changeRate": -0.013210039630118891
+    },
+    {
+      "xAxis": "201847",
+      "intervalTimestamp": "20181124010000000000",
+      "value": 755,
+      "volume": 0,
+      "changeValue": -2,
+      "changeRate": -0.0026490066225165563
+    },
+    {
+      "xAxis": "201848",
+      "intervalTimestamp": "20181201010000000000",
+      "value": 783,
+      "volume": 0,
+      "changeValue": 28,
+      "changeRate": 0.035759897828863345
+    },
+    {
+      "xAxis": "201849",
+      "intervalTimestamp": "20181208010000000000",
+      "value": 788,
+      "volume": 0,
+      "changeValue": 5,
+      "changeRate": 0.006345177664974619
+    },
+    {
+      "xAxis": "201850",
+      "intervalTimestamp": "20181215010000000000",
+      "value": 821,
+      "volume": 0,
+      "changeValue": 24,
+      "changeRate": 0.029232643118148598
+    },
+    {
+      "xAxis": "201851",
+      "intervalTimestamp": "20181222010000000000",
+      "value": 839,
+      "volume": 0,
+      "changeValue": 18,
+      "changeRate": 0.021454112038140644
+    },
+    {
+      "xAxis": "201852",
+      "intervalTimestamp": "20181229010000000000",
+      "value": 967,
+      "volume": 0,
+      "changeValue": 128,
+      "changeRate": 0.13236814891416754
+    },
+    {
+      "xAxis": "20191",
+      "intervalTimestamp": "20190105010000000000",
+      "value": 997,
+      "volume": 0,
+      "changeValue": 276,
+      "changeRate": 0.2768304914744233
+    },
+    {
+      "xAxis": "20192",
+      "intervalTimestamp": "20190112010000000000",
+      "value": 980,
+      "volume": 0,
+      "changeValue": 254,
+      "changeRate": 0.25918367346938775
+    },
+    {
+      "xAxis": "20193",
+      "intervalTimestamp": "20190119010000000000",
+      "value": 978,
+      "volume": 0,
+      "changeValue": 283,
+      "changeRate": 0.2893660531697341
+    },
+    {
+      "xAxis": "20194",
+      "intervalTimestamp": "20190126010000000000",
+      "value": 957,
+      "volume": 0,
+      "changeValue": 160,
+      "changeRate": 0.1671891327063741
+    },
+    {
+      "xAxis": "20195",
+      "intervalTimestamp": "20190202010000000000",
+      "value": 962,
+      "volume": 0,
+      "changeValue": 191,
+      "changeRate": 0.19854469854469856
+    },
+    {
+      "xAxis": "20196",
+      "intervalTimestamp": "20190209010000000000",
+      "value": 962,
+      "volume": 0,
+      "changeValue": -210,
+      "changeRate": -0.2182952182952183
+    },
+    {
+      "xAxis": "20197",
+      "intervalTimestamp": "20190216010000000000",
+      "value": 920,
+      "volume": 0,
+      "changeValue": -42,
+      "changeRate": -0.04565217391304348
+    },
+    {
+      "xAxis": "20198",
+      "intervalTimestamp": "20190223010000000000",
+      "value": 857,
+      "volume": 0,
+      "changeValue": -63,
+      "changeRate": -0.073512252042007
+    },
+    {
+      "xAxis": "20199",
+      "intervalTimestamp": "20190302010000000000",
+      "value": 810,
+      "volume": 0,
+      "changeValue": -47,
+      "changeRate": -0.05802469135802469
+    },
+    {
+      "xAxis": "201910",
+      "intervalTimestamp": "20190309010000000000",
+      "value": 776,
+      "volume": 0,
+      "changeValue": -221,
+      "changeRate": -0.2847938144329897
+    },
+    {
+      "xAxis": "201911",
+      "intervalTimestamp": "20190316010000000000",
+      "value": 748,
+      "volume": 0,
+      "changeValue": -28,
+      "changeRate": -0.0374331550802139
+    },
+    {
+      "xAxis": "201912",
+      "intervalTimestamp": "20190323010000000000",
+      "value": 732,
+      "volume": 0,
+      "changeValue": -16,
+      "changeRate": -0.02185792349726776
+    },
+    {
+      "xAxis": "201913",
+      "intervalTimestamp": "20190330010000000000",
+      "value": 725,
+      "volume": 0,
+      "changeValue": -7,
+      "changeRate": -0.009655172413793104
+    },
+    {
+      "xAxis": "201914",
+      "intervalTimestamp": "20190406010000000000",
+      "value": 711,
+      "volume": 0,
+      "changeValue": -14,
+      "changeRate": -0.01969057665260197
+    },
+    {
+      "xAxis": "201915",
+      "intervalTimestamp": "20190413010000000000",
+      "value": 715,
+      "volume": 0,
+      "changeValue": 4,
+      "changeRate": 0.005594405594405594
+    },
+    {
+      "xAxis": "201916",
+      "intervalTimestamp": "20190420010000000000",
+      "value": 717,
+      "volume": 0,
+      "changeValue": 2,
+      "changeRate": 0.002789400278940028
+    },
+    {
+      "xAxis": "201917",
+      "intervalTimestamp": "20190427010000000000",
+      "value": 726,
+      "volume": 0,
+      "changeValue": 9,
+      "changeRate": 0.012396694214876033
+    },
+    {
+      "xAxis": "201918",
+      "intervalTimestamp": "20190504010000000000",
+      "value": 726,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "201919",
+      "intervalTimestamp": "20190511010000000000",
+      "value": 726,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "201920",
+      "intervalTimestamp": "20190518010000000000",
+      "value": 696,
+      "volume": 0,
+      "changeValue": -284,
+      "changeRate": -0.40804597701149425
+    },
+    {
+      "xAxis": "201921",
+      "intervalTimestamp": "20190525010000000000",
+      "value": 710,
+      "volume": 0,
+      "changeValue": 14,
+      "changeRate": 0.01971830985915493
+    },
+    {
+      "xAxis": "201922",
+      "intervalTimestamp": "20190601010000000000",
+      "value": 740,
+      "volume": 0,
+      "changeValue": 30,
+      "changeRate": 0.04054054054054054
+    },
+    {
+      "xAxis": "201923",
+      "intervalTimestamp": "20190608010000000000",
+      "value": 745,
+      "volume": 0,
+      "changeValue": 5,
+      "changeRate": 0.006711409395973154
+    },
+    {
+      "xAxis": "201924",
+      "intervalTimestamp": "20190615010000000000",
+      "value": 741,
+      "volume": 0,
+      "changeValue": -4,
+      "changeRate": -0.005398110661268556
+    },
+    {
+      "xAxis": "201925",
+      "intervalTimestamp": "20190622010000000000",
+      "value": 731,
+      "volume": 0,
+      "changeValue": -10,
+      "changeRate": -0.013679890560875513
+    },
+    {
+      "xAxis": "201926",
+      "intervalTimestamp": "20190629010000000000",
+      "value": 726,
+      "volume": 0,
+      "changeValue": -5,
+      "changeRate": -0.006887052341597796
+    },
+    {
+      "xAxis": "201927",
+      "intervalTimestamp": "20190706010000000000",
+      "value": 705,
+      "volume": 0,
+      "changeValue": -21,
+      "changeRate": -0.029787234042553193
+    },
+    {
+      "xAxis": "201928",
+      "intervalTimestamp": "20190713010000000000",
+      "value": 697,
+      "volume": 0,
+      "changeValue": -8,
+      "changeRate": -0.011477761836441894
+    },
+    {
+      "xAxis": "201929",
+      "intervalTimestamp": "20190720010000000000",
+      "value": 695,
+      "volume": 0,
+      "changeValue": -2,
+      "changeRate": -0.0028776978417266188
+    },
+    {
+      "xAxis": "201930",
+      "intervalTimestamp": "20190727010000000000",
+      "value": 718,
+      "volume": 0,
+      "changeValue": -260,
+      "changeRate": -0.362116991643454
+    },
+    {
+      "xAxis": "201931",
+      "intervalTimestamp": "20190803010000000000",
+      "value": 850,
+      "volume": 0,
+      "changeValue": 132,
+      "changeRate": 0.15529411764705883
+    },
+    {
+      "xAxis": "201932",
+      "intervalTimestamp": "20190810010000000000",
+      "value": 974,
+      "volume": 0,
+      "changeValue": 124,
+      "changeRate": 0.1273100616016427
+    },
+    {
+      "xAxis": "201933",
+      "intervalTimestamp": "20190817010000000000",
+      "value": 1017,
+      "volume": 0,
+      "changeValue": 43,
+      "changeRate": 0.04228121927236971
+    },
+    {
+      "xAxis": "201934",
+      "intervalTimestamp": "20190824010000000000",
+      "value": 969,
+      "volume": 0,
+      "changeValue": -48,
+      "changeRate": -0.04953560371517028
+    },
+    {
+      "xAxis": "201935",
+      "intervalTimestamp": "20190831010000000000",
+      "value": 895,
+      "volume": 0,
+      "changeValue": -74,
+      "changeRate": -0.08268156424581005
+    },
+    {
+      "xAxis": "201936",
+      "intervalTimestamp": "20190907010000000000",
+      "value": 877,
+      "volume": 0,
+      "changeValue": -18,
+      "changeRate": -0.020524515393386546
+    },
+    {
+      "xAxis": "201937",
+      "intervalTimestamp": "20190914010000000000",
+      "value": 826,
+      "volume": 0,
+      "changeValue": -51,
+      "changeRate": -0.06174334140435835
+    },
+    {
+      "xAxis": "201938",
+      "intervalTimestamp": "20190921010000000000",
+      "value": 797,
+      "volume": 0,
+      "changeValue": -29,
+      "changeRate": -0.03638644918444166
+    },
+    {
+      "xAxis": "201939",
+      "intervalTimestamp": "20190928010000000000",
+      "value": 797,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "201940",
+      "intervalTimestamp": "20191005010000000000",
+      "value": 797,
+      "volume": 0,
+      "changeValue": -160,
+      "changeRate": -0.20075282308657466
+    },
+    {
+      "xAxis": "201941",
+      "intervalTimestamp": "20191012010000000000",
+      "value": 722,
+      "volume": 0,
+      "changeValue": -75,
+      "changeRate": -0.1038781163434903
+    },
+    {
+      "xAxis": "201942",
+      "intervalTimestamp": "20191019010000000000",
+      "value": 715,
+      "volume": 0,
+      "changeValue": -7,
+      "changeRate": -0.009790209790209791
+    },
+    {
+      "xAxis": "201943",
+      "intervalTimestamp": "20191026010000000000",
+      "value": 710,
+      "volume": 0,
+      "changeValue": -5,
+      "changeRate": -0.007042253521126761
+    },
+    {
+      "xAxis": "201944",
+      "intervalTimestamp": "20191102010000000000",
+      "value": 735,
+      "volume": 0,
+      "changeValue": 25,
+      "changeRate": 0.034013605442176874
+    },
+    {
+      "xAxis": "201945",
+      "intervalTimestamp": "20191109010000000000",
+      "value": 721,
+      "volume": 0,
+      "changeValue": -14,
+      "changeRate": -0.019417475728155338
+    },
+    {
+      "xAxis": "201946",
+      "intervalTimestamp": "20191116010000000000",
+      "value": 706,
+      "volume": 0,
+      "changeValue": -15,
+      "changeRate": -0.021246458923512748
+    },
+    {
+      "xAxis": "201947",
+      "intervalTimestamp": "20191123010000000000",
+      "value": 689,
+      "volume": 0,
+      "changeValue": -17,
+      "changeRate": -0.02467343976777939
+    },
+    {
+      "xAxis": "201948",
+      "intervalTimestamp": "20191130010000000000",
+      "value": 730,
+      "volume": 0,
+      "changeValue": 41,
+      "changeRate": 0.056164383561643834
+    },
+    {
+      "xAxis": "201949",
+      "intervalTimestamp": "20191207010000000000",
+      "value": 771,
+      "volume": 0,
+      "changeValue": 41,
+      "changeRate": 0.05317769130998703
+    },
+    {
+      "xAxis": "201950",
+      "intervalTimestamp": "20191214010000000000",
+      "value": 1083,
+      "volume": 0,
+      "changeValue": 121,
+      "changeRate": 0.11172668513388735
+    },
+    {
+      "xAxis": "201951",
+      "intervalTimestamp": "20191221010000000000",
+      "value": 1096,
+      "volume": 0,
+      "changeValue": 13,
+      "changeRate": 0.011861313868613138
+    },
+    {
+      "xAxis": "201952",
+      "intervalTimestamp": "20191228010000000000",
+      "value": 1172,
+      "volume": 0,
+      "changeValue": 76,
+      "changeRate": 0.06484641638225255
+    },
+    {
+      "xAxis": "20201",
+      "intervalTimestamp": "20200104010000000000",
+      "value": 1185,
+      "volume": 0,
+      "changeValue": 375,
+      "changeRate": 0.31645569620253167
+    },
+    {
+      "xAxis": "20202",
+      "intervalTimestamp": "20200111010000000000",
+      "value": 1179,
+      "volume": 0,
+      "changeValue": 326,
+      "changeRate": 0.2765055131467345
+    },
+    {
+      "xAxis": "20203",
+      "intervalTimestamp": "20200118010000000000",
+      "value": 1180,
+      "volume": 0,
+      "changeValue": 231,
+      "changeRate": 0.19576271186440677
+    },
+    {
+      "xAxis": "20204",
+      "intervalTimestamp": "20200125010000000000",
+      "value": 1179,
+      "volume": 0,
+      "changeValue": -1,
+      "changeRate": -0.0008481764206955047
+    },
+    {
+      "xAxis": "20205",
+      "intervalTimestamp": "20200201010000000000",
+      "value": 1179,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "20206",
+      "intervalTimestamp": "20200208010000000000",
+      "value": 1179,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "20207",
+      "intervalTimestamp": "20200215010000000000",
+      "value": 1031,
+      "volume": 0,
+      "changeValue": -148,
+      "changeRate": -0.14354995150339475
+    },
+    {
+      "xAxis": "20208",
+      "intervalTimestamp": "20200222010000000000",
+      "value": 977,
+      "volume": 0,
+      "changeValue": -54,
+      "changeRate": -0.05527123848515865
+    },
+    {
+      "xAxis": "20209",
+      "intervalTimestamp": "20200229010000000000",
+      "value": 928,
+      "volume": 0,
+      "changeValue": -49,
+      "changeRate": -0.052801724137931036
+    },
+    {
+      "xAxis": "202010",
+      "intervalTimestamp": "20200307010000000000",
+      "value": 915,
+      "volume": 0,
+      "changeValue": -270,
+      "changeRate": -0.29508196721311475
+    },
+    {
+      "xAxis": "202011",
+      "intervalTimestamp": "20200314010000000000",
+      "value": 903,
+      "volume": 0,
+      "changeValue": -12,
+      "changeRate": -0.013289036544850499
+    },
+    {
+      "xAxis": "202012",
+      "intervalTimestamp": "20200321010000000000",
+      "value": 892,
+      "volume": 0,
+      "changeValue": -11,
+      "changeRate": -0.01233183856502242
+    },
+    {
+      "xAxis": "202013",
+      "intervalTimestamp": "20200328010000000000",
+      "value": 880,
+      "volume": 0,
+      "changeValue": -12,
+      "changeRate": -0.013636363636363636
+    },
+    {
+      "xAxis": "202014",
+      "intervalTimestamp": "20200404010000000000",
+      "value": 863,
+      "volume": 0,
+      "changeValue": -17,
+      "changeRate": -0.019698725376593278
+    },
+    {
+      "xAxis": "202015",
+      "intervalTimestamp": "20200411010000000000",
+      "value": 859,
+      "volume": 0,
+      "changeValue": -4,
+      "changeRate": -0.004656577415599534
+    },
+    {
+      "xAxis": "202016",
+      "intervalTimestamp": "20200418010000000000",
+      "value": 841,
+      "volume": 0,
+      "changeValue": -18,
+      "changeRate": -0.02140309155766944
+    },
+    {
+      "xAxis": "202017",
+      "intervalTimestamp": "20200425010000000000",
+      "value": 844,
+      "volume": 0,
+      "changeValue": 3,
+      "changeRate": 0.0035545023696682463
+    },
+    {
+      "xAxis": "202018",
+      "intervalTimestamp": "20200502010000000000",
+      "value": 840,
+      "volume": 0,
+      "changeValue": -4,
+      "changeRate": -0.004761904761904762
+    },
+    {
+      "xAxis": "202019",
+      "intervalTimestamp": "20200509010000000000",
+      "value": 853,
+      "volume": 0,
+      "changeValue": 13,
+      "changeRate": 0.015240328253223915
+    },
+    {
+      "xAxis": "202020",
+      "intervalTimestamp": "20200516010000000000",
+      "value": 875,
+      "volume": 0,
+      "changeValue": -304,
+      "changeRate": -0.3474285714285714
+    },
+    {
+      "xAxis": "202021",
+      "intervalTimestamp": "20200523010000000000",
+      "value": 879,
+      "volume": 0,
+      "changeValue": 4,
+      "changeRate": 0.004550625711035267
+    },
+    {
+      "xAxis": "202022",
+      "intervalTimestamp": "20200530010000000000",
+      "value": 924,
+      "volume": 0,
+      "changeValue": 45,
+      "changeRate": 0.048701298701298704
+    },
+    {
+      "xAxis": "202023",
+      "intervalTimestamp": "20200606010000000000",
+      "value": 931,
+      "volume": 0,
+      "changeValue": 7,
+      "changeRate": 0.007518796992481203
+    },
+    {
+      "xAxis": "202024",
+      "intervalTimestamp": "20200613010000000000",
+      "value": 954,
+      "volume": 0,
+      "changeValue": 23,
+      "changeRate": 0.02410901467505241
+    },
+    {
+      "xAxis": "202025",
+      "intervalTimestamp": "20200620010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": -5,
+      "changeRate": -0.005268703898840885
+    },
+    {
+      "xAxis": "202026",
+      "intervalTimestamp": "202026010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "202027",
+      "intervalTimestamp": "202027010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "202028",
+      "intervalTimestamp": "202028010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "202029",
+      "intervalTimestamp": "202029010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "202030",
+      "intervalTimestamp": "202030010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "202031",
+      "intervalTimestamp": "202031010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "202032",
+      "intervalTimestamp": "202032010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "202033",
+      "intervalTimestamp": "202033010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    },
+    {
+      "xAxis": "202034",
+      "intervalTimestamp": "202034010000000000",
+      "value": 949,
+      "volume": 0,
+      "changeValue": 0,
+      "changeRate": 0
+    }
+  ]
+}

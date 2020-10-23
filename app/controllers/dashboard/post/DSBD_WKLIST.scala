@@ -45,8 +45,11 @@ class DSBD_WKLIST @Inject()(cc: ControllerComponents) extends AbstractController
     // Create Observer Object
     val observer: Observer[Document] = new Observer[Document] {
       override def onSubscribe(subscription: Subscription): Unit = subscription.request(Long.MaxValue)
+
       override def onNext(result: Document): Unit = println(result.toJson(MongoConf.jsonWriterSettings))
+
       override def onError(e: Throwable): Unit = println("!!!!!!! Error: " + e.toString)
+
       override def onComplete(): Unit = println("////////////////////COMPLETE///////////////////////")
     }
 

@@ -9,6 +9,7 @@ import akka.stream.Materializer
 import akka.stream.scaladsl.{BroadcastHub, Flow, Keep, MergeHub, Source}
 import play.api.Logger
 import play.api.mvc._
+import services.ArtemisConsumer
 
 import scala.concurrent.{ExecutionContext, Future}
 
@@ -34,11 +35,16 @@ class SocketController @Inject()(val controllerComponents: ControllerComponents)
   private val userFlow: Flow[String, String, _] = {
     Flow.fromSinkAndSource(msgSink, msgSource)
   }
-  def msgRoom: Action[AnyContent] = Action { implicit request: RequestHeader =>
-    Ok(views.html.wstest("WSTEST"))
+
+  def wstest: Action[AnyContent] = Action {
+    ArtemisConsumer
+    ArtemisConsumer.receiveMessage("topic/test")
+
+    implicit request: RequestHeader => Ok(views.html.wstest("WSTEST"))
   }
-  def msg(): WebSocket = WebSocket.accept[String, String] { request =>
-    userFlow
+
+  def msg(): WebSocket = WebSocket.accept[String, String] {
+    request => userFlow
   }
 
 }

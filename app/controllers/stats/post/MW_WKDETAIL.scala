@@ -1,7 +1,7 @@
 package controllers.stats.post
 
 import java.util.concurrent.TimeUnit
-
+import services.ChartHelper
 import conf.MongoConf
 import javax.inject.Inject
 import org.reactivestreams.Subscription
@@ -62,31 +62,31 @@ class MW_WKDETAIL @Inject()(cc: ControllerComponents) extends AbstractController
     observable.subscribe(observer)
 
     // Get result from subscription
-    val mongoRaw = Await
+    val mongoRaw: Seq[String] = Await
       .result(observable.toFuture, Duration(10, TimeUnit.SECONDS))
       .map(x => x.toJson(MongoConf.jsonWriterSettings))
 
     // Read xAxis indices from the CSV file
     val rootPath = new java.io.File(".").getCanonicalPath + "/app/resources/timetables/"
 
-    val dayTable = Source.fromFile(rootPath + "daytable.csv").getLines.toArray.map(_.trim)
+    val dayTable = Source.fromFile(rootPath + "daytable.csv")("UTF-8").getLines.toArray.map(_.trim)
     val dayIdx = dayTable(0).split(",")
     val dayXAxis = dayTable(1).split(",")
     val dayTimestamp = dayTable(2).split(",")
 
-    val wkTable = Source.fromFile(rootPath + "weektable.csv").getLines.toArray.map(_.trim)
+    val wkTable = Source.fromFile(rootPath + "weektable.csv")("UTF-8").getLines.toArray.map(_.trim)
     val wkIdx = wkTable(0).split(",")
     val wkXAxis = wkTable(1).split(",")
     val wkTimestamp = wkTable(2).split(",")
 
-    val mnTable = Source.fromFile(rootPath + "monthtable.csv").getLines.toArray.map(_.trim)
+    val mnTable = Source.fromFile(rootPath + "monthtable.csv")("UTF-8").getLines.toArray.map(_.trim)
     val mnIdx = mnTable(0).split(",")
     val mnXAxis = mnTable(1).split(",")
     val mnTimestamp = mnTable(2).split(",")
 
     // Run data refinery before dispatch
-    val mongoJsValue = Json.parse(mongoRaw.head)
-    var mongoJsObject = mongoJsValue.as[JsObject]
+    val mongoJsValue: JsValue = Json.parse(mongoRaw.head)
+    var mongoJsObject: JsObject = mongoJsValue.as[JsObject]
     val cell = (mongoJsObject \ "Cell").as[List[JsValue]]
     val mongoInterval = (mongoJsObject \ "interval").as[String]
     var mongoXAxis = ListBuffer[String]()
@@ -94,63 +94,17 @@ class MW_WKDETAIL @Inject()(cc: ControllerComponents) extends AbstractController
 
     var newCell = ListBuffer[JsObject]()
     var freqXAxis = Array[String]()
+    val wkDetailHelper = new ChartHelper
     mongoInterval match {
       case "monthly" => freqXAxis = mnXAxis
-        newCell = (cellGenerator(freqXAxis, mongoXAxis, cell))
+        newCell = (wkDetailHelper.generateAxis(mongoInterval, freqXAxis, mongoXAxis, cell, "F9S_MW_WKDETAIL"))
       case "weekly" => freqXAxis = wkXAxis
-        newCell = (cellGenerator(freqXAxis, mongoXAxis, cell))
+        newCell = (wkDetailHelper.generateAxis(mongoInterval, freqXAxis, mongoXAxis, cell, "F9S_MW_WKDETAIL"))
       case "daily" => freqXAxis = dayXAxis
-        newCell = (cellGenerator(freqXAxis, mongoXAxis, cell))
-        }
-
-    def cellGenerator(freqXAxis: Array[String], mongoXAxis: ListBuffer[String], existingCell: scala.List[JsValue]): ListBuffer[JsObject] = {
-      val newCell = ListBuffer[JsObject]()
-      val tgXAxis = freqXAxis.slice(freqXAxis.indexOf(mongoXAxis.min), freqXAxis.indexOf("20200811"))
-      var mongoPos = 0
-      for (i <- tgXAxis) {
-        var xAxis = JsObject.empty
-        var intervalTimestamp = JsObject.empty
-        var open = JsObject.empty
-        var low = JsObject.empty
-        var high = JsObject.empty
-        var close = JsObject.empty
-        var volume = JsObject.empty
-        var changeValue = JsObject.empty
-        var changeRate = JsObject.empty
-        xAxis = Json.obj("xAxis" -> JsString(i))
-        if (mongoXAxis.contains(i)) {
-          mongoPos = mongoXAxis.indexOf(i)
-          intervalTimestamp = Json.obj("intervalTimestamp" -> (existingCell(mongoPos) \ "intervalTimestamp").as[JsString])
-          open = Json.obj("open" -> (existingCell(mongoPos) \ "open").as[JsNumber])
-          low = Json.obj("low" -> (existingCell(mongoPos) \ "low").as[JsNumber])
-          high = Json.obj("high" -> (existingCell(mongoPos) \ "high").as[JsNumber])
-          close = Json.obj("close" -> (existingCell(mongoPos) \ "close").as[JsNumber])
-          volume = Json.obj("volume" -> (existingCell(mongoPos) \ "volume").as[JsNumber])
-          changeValue = Json.obj("changeValue" -> (existingCell(mongoPos) \ "changeValue").as[JsNumber])
-          changeRate = Json.obj("changeRate" -> (existingCell(mongoPos) \ "changeRate").as[JsNumber])
-          mongoPos += 1
-        }
-        else {
-          intervalTimestamp = Json.obj("intervalTimestamp" -> JsString(i + "010000000000"))
-          open = Json.obj("open" -> (existingCell(mongoPos - 1) \ "close").as[JsNumber])
-          low = Json.obj("low" -> (existingCell(mongoPos - 1) \ "close").as[JsNumber])
-          high = Json.obj("high" -> (existingCell(mongoPos - 1) \ "close").as[JsNumber])
-          close = Json.obj("close" -> (existingCell(mongoPos - 1) \ "close").as[JsNumber])
-          volume = Json.obj("volume" -> JsNumber(0))
-          changeValue = Json.obj("changeValue" -> JsNumber(0))
-          changeRate = Json.obj("changeRate" -> JsNumber(0))
-        }
-        newCell.append((xAxis ++ intervalTimestamp ++ open ++ low ++ high ++ close ++ volume ++ changeValue ++ changeRate))
-      }
-      newCell
+        newCell = (wkDetailHelper.generateAxis(mongoInterval, freqXAxis, mongoXAxis, cell, "F9S_MW_WKDETAIL"))
     }
-    // Return result of subscribed contents with 200 OK
-    //    Ok(Await
-    //      .result(observable.toFuture, Duration(10, TimeUnit.SECONDS))
-    //      .map(x => x.toJson(MongoConf.jsonWriterSettings))
-    //      .mkString(",")
-    //    )
-    Ok("[" + newCell.mkString(",") + "]")
+    mongoJsObject = mongoJsObject ++ Json.obj("Cell" -> newCell)
+    Ok(mongoJsObject)
   }
 
 }

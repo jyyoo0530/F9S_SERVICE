@@ -1,8 +1,8 @@
 GET         /assets/*file                                                controllers.Assets.versioned(path="/public", file: Asset)
 GET         /                                                            controllers.HomeController.index
-GET         /wstest                                                      controllers.SocketController.msgRoom
-GET         /ws                                                          controllers.SocketController.msg
-GET         /stomptest                                                   controllers.SocketController.msgRoom
+GET         /wstest                                                      controllers.SocketController.wstest
+GET         /websocket/websocket                                         controllers.SocketController.msg
+
 
 
 

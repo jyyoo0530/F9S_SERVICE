@@ -25,8 +25,11 @@ class IDX_LST @Inject()(cc: ControllerComponents) extends AbstractController(cc)
     // Create Observer Object
     val observer: Observer[Document] = new Observer[Document] {
       override def onSubscribe(subscription: Subscription): Unit = subscription.request(Long.MaxValue)
+
       override def onNext(result: Document): Unit = println(result.toJson(MongoConf.jsonWriterSettings))
+
       override def onError(e: Throwable): Unit = println("!!!!!!! Error: " + e.toString)
+
       override def onComplete(): Unit = println("////////////////////COMPLETE///////////////////////")
     }
 
@@ -34,7 +37,7 @@ class IDX_LST @Inject()(cc: ControllerComponents) extends AbstractController(cc)
     observable.subscribe(observer)
 
     // Return result of subscribed contents with 200 OK
-    Ok("["+
+    Ok("[" +
       Await.result(observable.toFuture, Duration(10, TimeUnit.SECONDS)).map(x => x.toJson(MongoConf.jsonWriterSettings)).mkString(",")
       + "]"
     )

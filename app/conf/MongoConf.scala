@@ -1,21 +1,22 @@
 package conf
 
 //import reactivemongo.api._
+
 import org.bson.json.{JsonMode, JsonWriterSettings}
 import org.mongodb.scala.{MongoClient, MongoDatabase}
 
 import scala.concurrent.ExecutionContext.Implicits.global
 import scala.concurrent.Future
 
-object MongoConf{
-    private val uri: String = "mongodb://data.freight9.com:27017"
-    System.setProperty("org.mongodb.async.type", "netty")
-    private val mongoClient:MongoClient = MongoClient(uri)
-    val database: MongoDatabase = mongoClient.getDatabase("f9s")
+object MongoConf {
+  private val uri: String = "mongodb://f9s:12345678@data.freight9.com:27017/f9s?authSource=f9s&readPreference=primary"
+  System.setProperty("org.mongodb.async.type", "netty")
+  private val mongoClient: MongoClient = MongoClient(uri)
+  val database: MongoDatabase = mongoClient.getDatabase("f9s")
 
-    def closeConn(): Unit = mongoClient.close()
+  def closeConn(): Unit = mongoClient.close()
 
-    val jsonWriterSettings: JsonWriterSettings = JsonWriterSettings.builder().outputMode(JsonMode.RELAXED).build()
+  val jsonWriterSettings: JsonWriterSettings = JsonWriterSettings.builder().outputMode(JsonMode.RELAXED).build()
 
 }
 

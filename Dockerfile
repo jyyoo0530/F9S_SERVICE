@@ -7,7 +7,8 @@ RUN apt-get update -y &&\
 
 # App source
 COPY /target/universal/f9s_service /src
-WORKDIR /src/bin
+COPY /app/resources/timetables /src/app/resources/timetables
+WORKDIR /src/f9s_service/bin
 
 EXPOSE 8080
 

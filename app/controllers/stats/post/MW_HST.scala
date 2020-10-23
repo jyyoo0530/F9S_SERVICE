@@ -13,7 +13,7 @@ import scala.concurrent.Await
 import org.mongodb.scala._
 import org.mongodb.scala.model.Filters.{and, equal}
 
-class MW_HST @Inject()(cc: ControllerComponents) extends AbstractController(cc)  {
+class MW_HST @Inject()(cc: ControllerComponents) extends AbstractController(cc) {
   // Observer Pattern
   def postResponse: Action[AnyContent] = Action { request =>
 
